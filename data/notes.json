@@ -6,7 +6,5 @@
     {"date": "2026-05-24", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale – Plain Text", "audience": "EP High Engagement (Top 10%)"},
     {"date": "2026-05-25", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale Final Reminder", "audience": "EP High Engagement (Top 10%)"}
   ],
-  "pending": [
-    "Postscript SMS Memorial Day sends — schedule not yet captured"
-  ]
+  "pending": []
 }
