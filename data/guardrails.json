@@ -1,0 +1,23 @@
+{
+  "scaling": [
+    {"action": "Scale Up", "signal": "Shopify MER 2.2x+ and CVR 2.4%+", "response": "Increase total daily budget 10%–20% next day"},
+    {"action": "Scale Up", "signal": "Meta ROAS 2.0x+ and CPA stable", "response": "Increase Meta budgets 10%–15%"},
+    {"action": "Scale Up", "signal": "Google ROAS 4.5x+ with room to spend", "response": "Increase Google budgets or loosen caps"},
+    {"action": "Scale Up", "signal": "AOV holds $72+ despite B2G2", "response": "Lean into spend"},
+    {"action": "Hold",     "signal": "Shopify MER 1.9x–2.2x", "response": "Hold budgets; rotate creative and monitor"},
+    {"action": "Hold",     "signal": "Meta ROAS 1.7x–2.0x", "response": "Hold or shift incremental dollars to Google"},
+    {"action": "Hold",     "signal": "AOV $68–$70 but orders are strong", "response": "Hold if contribution margin still works"},
+    {"action": "Pull Back","signal": "Shopify MER below 1.8x for a full day", "response": "Cut next-day planned increase by 15%–25%"},
+    {"action": "Pull Back","signal": "Meta ROAS below 1.6x and CPA rises", "response": "Pull Meta back or pause weakest ad sets/creatives"},
+    {"action": "Pull Back","signal": "CVR below 2.0% during sale", "response": "Check offer clarity, landing page, cart, and discount application"},
+    {"action": "Pull Back","signal": "AOV below $66", "response": "Re-check margin and whether 5 for $99 is confusing the B2G2 path"}
+  ],
+  "risks": [
+    {"risk": "B2G2 mechanic not understood", "why": "Customers may not add 4 bands and may not see discount", "mitigation": "Message: Add 4 bands to cart. Pay for 2. Use cart reminder.", "owner": "Site + Creative", "status": "green"},
+    {"risk": "5 for $99 confusion", "why": "Customers may not know which offer is better", "mitigation": "Make B2G2 dominant; keep 5 for $99 secondary.", "owner": "Site + CX", "status": "green"},
+    {"risk": "Margin impact", "why": "Revenue ROAS can look good while profit tightens", "mitigation": "Monitor contribution margin, AOV, units/order, discount rate.", "owner": "Finance / Media", "status": "green"},
+    {"risk": "Inventory pressure", "why": "Best sellers can sell through from Shopify + Amazon demand", "mitigation": "Daily inventory check; redirect traffic if hero SKUs run low.", "owner": "Ops / Media", "status": "green"},
+    {"risk": "Amazon over-credit", "why": "Total MER may look better than Shopify media performance", "mitigation": "Use Shopify MER for media decisions; report Amazon separately.", "owner": "Media", "status": "green"},
+    {"risk": "Landing page friction", "why": "All-products path may reduce cart completion", "mitigation": "Prefer dedicated Memorial Day sale collection / best sellers page.", "owner": "Site", "status": "green"}
+  ]
+}

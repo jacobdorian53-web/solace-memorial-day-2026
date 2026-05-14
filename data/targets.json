@@ -1,0 +1,89 @@
+{
+  "sale": {
+    "name": "Solace Memorial Day Sale 2026",
+    "start": "2026-05-18",
+    "end": "2026-05-25",
+    "offer": "Buy 2 Get 2 Free",
+    "core_message": "Add 4 bands to cart. Pay for 2.",
+    "amazon_assumption_pct": 0.08,
+    "amazon_low_pct": 0.06,
+    "amazon_high_pct": 0.10
+  },
+  "scenarios": {
+    "conservative": {
+      "paid_spend": 560000,
+      "shopify_revenue": 1250000,
+      "shopify_mer": 2.232,
+      "amazon_low": 75000,
+      "amazon_base": 100000,
+      "amazon_high": 125000,
+      "total_revenue": 1350000,
+      "total_mer": 2.411,
+      "notes": "Use if margin/inventory/offer clarity are uncertain"
+    },
+    "moderate": {
+      "paid_spend": 650000,
+      "shopify_revenue": 1400000,
+      "shopify_mer": 2.154,
+      "amazon_low": 84000,
+      "amazon_base": 112000,
+      "amazon_high": 140000,
+      "total_revenue": 1512000,
+      "total_mer": 2.326,
+      "notes": "Recommended working target"
+    },
+    "aggressive": {
+      "paid_spend": 760000,
+      "shopify_revenue": 1550000,
+      "shopify_mer": 2.039,
+      "amazon_low": 93000,
+      "amazon_base": 124000,
+      "amazon_high": 155000,
+      "total_revenue": 1674000,
+      "total_mer": 2.203,
+      "notes": "Only if early sale signals are clean"
+    }
+  },
+  "daily_targets": [
+    {"date": "2026-05-18", "day": "Launch Monday", "pacing_note": "Strong launch; do not max out",
+      "conservative": {"paid_spend": 73000, "shopify_revenue": 162000, "amazon_base": 12960, "total_revenue": 174960, "shopify_mer": 2.219, "total_mer": 2.397},
+      "moderate":     {"paid_spend": 85000, "shopify_revenue": 182000, "amazon_base": 14560, "total_revenue": 196560, "shopify_mer": 2.141, "total_mer": 2.312},
+      "aggressive":   {"paid_spend": 99000, "shopify_revenue": 202000, "amazon_base": 16160, "total_revenue": 218160, "shopify_mer": 2.040, "total_mer": 2.204}
+    },
+    {"date": "2026-05-19", "day": "Tuesday", "pacing_note": "Post-launch digestion",
+      "conservative": {"paid_spend": 59000, "shopify_revenue": 138000, "amazon_base": 11040, "total_revenue": 149040, "shopify_mer": 2.339, "total_mer": 2.526},
+      "moderate":     {"paid_spend": 68000, "shopify_revenue": 154000, "amazon_base": 12320, "total_revenue": 166320, "shopify_mer": 2.265, "total_mer": 2.446},
+      "aggressive":   {"paid_spend": 80000, "shopify_revenue": 170000, "amazon_base": 13600, "total_revenue": 183600, "shopify_mer": 2.125, "total_mer": 2.295}
+    },
+    {"date": "2026-05-20", "day": "Wednesday", "pacing_note": "Likely softer midweek day",
+      "conservative": {"paid_spend": 56000, "shopify_revenue": 125000, "amazon_base": 10000, "total_revenue": 135000, "shopify_mer": 2.232, "total_mer": 2.411},
+      "moderate":     {"paid_spend": 65000, "shopify_revenue": 140000, "amazon_base": 11200, "total_revenue": 151200, "shopify_mer": 2.154, "total_mer": 2.326},
+      "aggressive":   {"paid_spend": 76000, "shopify_revenue": 155000, "amazon_base": 12400, "total_revenue": 167400, "shopify_mer": 2.039, "total_mer": 2.203}
+    },
+    {"date": "2026-05-21", "day": "Thursday", "pacing_note": "Hold / monitor offer clarity",
+      "conservative": {"paid_spend": 59000, "shopify_revenue": 138000, "amazon_base": 11040, "total_revenue": 149040, "shopify_mer": 2.339, "total_mer": 2.526},
+      "moderate":     {"paid_spend": 68000, "shopify_revenue": 154000, "amazon_base": 12320, "total_revenue": 166320, "shopify_mer": 2.265, "total_mer": 2.446},
+      "aggressive":   {"paid_spend": 80000, "shopify_revenue": 170000, "amazon_base": 13600, "total_revenue": 183600, "shopify_mer": 2.125, "total_mer": 2.295}
+    },
+    {"date": "2026-05-22", "day": "Friday", "pacing_note": "Begin weekend ramp if signals are acceptable",
+      "conservative": {"paid_spend": 70000, "shopify_revenue": 156000, "amazon_base": 12480, "total_revenue": 168480, "shopify_mer": 2.229, "total_mer": 2.407},
+      "moderate":     {"paid_spend": 81000, "shopify_revenue": 175000, "amazon_base": 14000, "total_revenue": 189000, "shopify_mer": 2.160, "total_mer": 2.333},
+      "aggressive":   {"paid_spend": 95000, "shopify_revenue": 194000, "amazon_base": 15520, "total_revenue": 209520, "shopify_mer": 2.042, "total_mer": 2.205}
+    },
+    {"date": "2026-05-23", "day": "Saturday", "pacing_note": "Push if MER/CVR/AOV are holding",
+      "conservative": {"paid_spend": 78000, "shopify_revenue": 175000, "amazon_base": 14000, "total_revenue": 189000, "shopify_mer": 2.244, "total_mer": 2.423},
+      "moderate":     {"paid_spend": 91000, "shopify_revenue": 196000, "amazon_base": 15680, "total_revenue": 211680, "shopify_mer": 2.154, "total_mer": 2.326},
+      "aggressive":   {"paid_spend": 106000, "shopify_revenue": 217000, "amazon_base": 17360, "total_revenue": 234360, "shopify_mer": 2.047, "total_mer": 2.211}
+    },
+    {"date": "2026-05-24", "day": "Sunday", "pacing_note": "Strong urgency + weekend shopping",
+      "conservative": {"paid_spend": 78000, "shopify_revenue": 169000, "amazon_base": 13520, "total_revenue": 182520, "shopify_mer": 2.167, "total_mer": 2.340},
+      "moderate":     {"paid_spend": 91000, "shopify_revenue": 189000, "amazon_base": 15120, "total_revenue": 204120, "shopify_mer": 2.077, "total_mer": 2.243},
+      "aggressive":   {"paid_spend": 106000, "shopify_revenue": 209000, "amazon_base": 16720, "total_revenue": 225720, "shopify_mer": 1.972, "total_mer": 2.129}
+    },
+    {"date": "2026-05-25", "day": "Final Monday", "pacing_note": "Biggest push; ends tonight urgency",
+      "conservative": {"paid_spend": 87000, "shopify_revenue": 187000, "amazon_base": 14960, "total_revenue": 201960, "shopify_mer": 2.149, "total_mer": 2.321},
+      "moderate":     {"paid_spend": 101000, "shopify_revenue": 210000, "amazon_base": 16800, "total_revenue": 226800, "shopify_mer": 2.079, "total_mer": 2.246},
+      "aggressive":   {"paid_spend": 118000, "shopify_revenue": 233000, "amazon_base": 18640, "total_revenue": 251640, "shopify_mer": 1.975, "total_mer": 2.133}
+    }
+  ]
+}
