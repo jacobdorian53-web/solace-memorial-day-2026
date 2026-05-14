@@ -48,35 +48,49 @@ function renderDailyTable(targets) {
 }
 
 function renderNotes(notes) {
-  // Wholesale
-  const ws = notes.wholesale || {};
-  const wsEl = document.getElementById('wholesale-block');
-  if (wsEl) {
-    if (ws.dates && ws.dates.length) {
-      wsEl.classList.remove('notes-empty');
-      wsEl.innerHTML = ws.dates.map(d => `<div class="wholesale-row"><strong>${fmtShortDate(d.date)}</strong> &mdash; ${d.label || ''}</div>`).join('');
-    } else {
-      wsEl.textContent = ws.note || 'Dates TBD.';
-    }
-  }
+  const calEl = document.getElementById('send-calendar');
+  if (calEl) {
+    const window = notes.sale_window || { start: '2026-05-18', end: '2026-05-25' };
+    const start = new Date(window.start + 'T00:00:00');
+    const end = new Date(window.end + 'T00:00:00');
+    const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
-  // Campaigns table
-  const head = `<thead><tr>
-    <th>Date</th>
-    <th>Time</th>
-    <th>Channel</th>
-    <th>Campaign</th>
-    <th>Audience</th>
-  </tr></thead>`;
-  const rows = (notes.campaigns || []).map(c => `<tr>
-    <td class="date-cell">${fmtShortDate(c.date)}</td>
-    <td>${c.time || ''}</td>
-    <td><span class="channel-pill">${c.channel}</span></td>
-    <td class="day-cell">${c.name}</td>
-    <td class="muted-cell">${c.audience || ''}</td>
-  </tr>`).join('');
-  const tEl = document.getElementById('campaigns-table');
-  if (tEl) tEl.innerHTML = head + '<tbody>' + rows + '</tbody>';
+    // Build a day-by-day list across the sale window
+    const days = [];
+    for (let d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
+      const iso = d.toISOString().slice(0, 10);
+      const sends = (notes.sends || []).filter(s => s.date === iso);
+      days.push({
+        iso,
+        dow: dayNames[d.getDay()],
+        label: d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
+        sends
+      });
+    }
+
+    calEl.innerHTML = days.map(d => {
+      const hasSends = d.sends.length > 0;
+      const sendItems = hasSends
+        ? d.sends.map(s => {
+            const chCls = (s.channel || '').toLowerCase() === 'sms' ? 'sms' : 'email';
+            return `<div class="send-item">
+              <span class="send-channel ${chCls}">${s.channel}</span>
+              <span class="send-time">${s.time || ''}</span>
+              <span class="send-name">${s.name}</span>
+              ${s.audience ? `<span class="send-audience">${s.audience}</span>` : ''}
+            </div>`;
+          }).join('')
+        : '<div class="send-empty">No sends scheduled</div>';
+
+      return `<div class="cal-day ${hasSends ? 'has-sends' : ''}">
+        <div class="cal-day-head">
+          <div class="cal-dow">${d.dow}</div>
+          <div class="cal-date">${d.label}</div>
+        </div>
+        <div class="cal-day-body">${sendItems}</div>
+      </div>`;
+    }).join('');
+  }
 
   // Pending list
   const pEl = document.getElementById('pending-list');

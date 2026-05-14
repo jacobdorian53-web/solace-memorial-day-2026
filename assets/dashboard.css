@@ -341,6 +341,74 @@ td.delta-pos { color: var(--good); }
 td.delta-neg { color: var(--bad); }
 tr.future td { color: var(--muted); }
 
+/* ===== Send Calendar ===== */
+.send-calendar {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+.cal-day {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 16px;
+  align-items: stretch;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 14px 18px;
+}
+.cal-day.has-sends { border-left: 3px solid var(--accent); }
+.cal-day-head {
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+}
+.cal-dow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.cal-date {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--ink);
+  margin-top: 2px;
+}
+.cal-day-body {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  justify-content: center;
+}
+.send-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+  font-size: 13px;
+}
+.send-channel {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.send-channel.email { background: var(--accent-soft); color: var(--accent); }
+.send-channel.sms { background: #f0e4f7; color: #7a3aa8; }
+.send-time { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.send-name { color: var(--ink); font-weight: 500; }
+.send-audience { color: var(--muted); font-size: 12px; font-style: italic; }
+.send-empty {
+  color: var(--muted);
+  font-style: italic;
+  font-size: 13px;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+}
+
 /* ===== Notes section ===== */
 .notes-block { margin-bottom: 24px; }
 .notes-block:last-child { margin-bottom: 0; }

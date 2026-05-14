@@ -1,16 +1,12 @@
 {
-  "wholesale": {
-    "dates": [],
-    "note": "Wholesale dates TBD — add when known."
-  },
-  "campaigns": [
-    {"date": "2026-05-18", "time": "11:00 AM", "channel": "Klaviyo Email", "name": "Memorial Day Sale (launch)", "audience": "EP High Engagement (Top 10%)"},
-    {"date": "2026-05-22", "time": "11:00 AM", "channel": "Klaviyo Email", "name": "Memorial Day Sale Reminder", "audience": "EP High Engagement (Top 10%)"},
-    {"date": "2026-05-24", "time": "11:00 AM", "channel": "Klaviyo Email", "name": "Memorial Day Sale – Plain Text", "audience": "EP High Engagement (Top 10%)"},
-    {"date": "2026-05-25", "time": "11:00 AM", "channel": "Klaviyo Email", "name": "Memorial Day Sale Final Reminder", "audience": "EP High Engagement (Top 10%)"}
+  "sale_window": { "start": "2026-05-18", "end": "2026-05-25" },
+  "sends": [
+    {"date": "2026-05-18", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale (launch)", "audience": "EP High Engagement (Top 10%)"},
+    {"date": "2026-05-22", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale Reminder", "audience": "EP High Engagement (Top 10%)"},
+    {"date": "2026-05-24", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale – Plain Text", "audience": "EP High Engagement (Top 10%)"},
+    {"date": "2026-05-25", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale Final Reminder", "audience": "EP High Engagement (Top 10%)"}
   ],
   "pending": [
-    "Postscript SMS Memorial Day sends — schedule not yet captured",
-    "Wholesale dates — TBD"
+    "Postscript SMS Memorial Day sends — schedule not yet captured"
   ]
 }
