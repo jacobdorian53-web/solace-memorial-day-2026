@@ -3,28 +3,107 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Solace Memorial Day 2026 — Live Dashboard</title>
+<title>Solace Memorial Day 2026 — Projections</title>
 <link rel="stylesheet" href="assets/dashboard.css" />
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 </head>
 <body>
-<header>
+<nav class="topnav">
   <div class="wrap">
-    <h1>Solace Memorial Day Sale 2026</h1>
-    <div class="sub">
-      <span id="sale-window"></span> &middot;
-      <span id="offer"></span> &middot;
-      <span class="muted">Working plan:</span> <span id="primary-scenario"></span>
-    </div>
-    <div class="updated muted">Last updated: <span id="last-updated">—</span></div>
+    <a href="index.html" class="active">Projections</a>
+    <a href="tracking.html">Live Tracking</a>
+  </div>
+</nav>
+
+<header class="hero-header">
+  <div class="wrap">
+    <div class="eyebrow">Memorial Day Sale 2026</div>
+    <h1>Solace Projections</h1>
+    <div class="sub">May 18 – May 25, 2026 &middot; Buy 2 Bands, Get 2 FREE</div>
   </div>
 </header>
 
 <main class="wrap">
-  <section id="hero" class="cards"></section>
 
+  <!-- Recommended Plan Banner -->
+  <section class="recommended-banner">
+    <div class="rec-label">Recommended Working Plan</div>
+    <div class="rec-title">Moderate Scenario</div>
+    <div class="rec-grid">
+      <div><div class="rec-num">$650K</div><div class="rec-key">Paid Spend</div></div>
+      <div><div class="rec-num">$1.40M</div><div class="rec-key">Shopify Revenue</div></div>
+      <div><div class="rec-num">$112K</div><div class="rec-key">Amazon Revenue</div></div>
+      <div><div class="rec-num">$1.51M</div><div class="rec-key">Total Revenue</div></div>
+      <div><div class="rec-num">2.15x</div><div class="rec-key">Shopify MER</div></div>
+      <div><div class="rec-num">2.33x</div><div class="rec-key">Total MER</div></div>
+    </div>
+  </section>
+
+  <!-- Scenario Comparison -->
   <section class="panel">
-    <h2>Daily Pacing</h2>
+    <h2>Scenario Comparison</h2>
+    <p class="panel-sub">Three planning scenarios. Amazon shown as an additive line; base assumption is 8% of Shopify revenue (6% low / 10% high).</p>
+    <div class="scenario-grid">
+
+      <div class="scenario-card scenario-conservative">
+        <div class="scenario-name">Conservative</div>
+        <div class="scenario-desc">Use if margin, inventory, or offer clarity are uncertain</div>
+        <div class="scenario-stats">
+          <div><span class="lbl">Paid Spend</span><span class="val">$560K</span></div>
+          <div><span class="lbl">Shopify Rev</span><span class="val">$1.25M</span></div>
+          <div><span class="lbl">Amazon (Base 8%)</span><span class="val">$100K</span></div>
+          <div><span class="lbl">Total Rev</span><span class="val">$1.35M</span></div>
+          <div><span class="lbl">Shopify MER</span><span class="val">2.23x</span></div>
+          <div><span class="lbl">Total MER</span><span class="val">2.41x</span></div>
+        </div>
+      </div>
+
+      <div class="scenario-card scenario-moderate recommended">
+        <div class="scenario-badge">Recommended</div>
+        <div class="scenario-name">Moderate</div>
+        <div class="scenario-desc">Recommended working target. Strong launch, hold midweek, push weekend/final.</div>
+        <div class="scenario-stats">
+          <div><span class="lbl">Paid Spend</span><span class="val">$650K</span></div>
+          <div><span class="lbl">Shopify Rev</span><span class="val">$1.40M</span></div>
+          <div><span class="lbl">Amazon (Base 8%)</span><span class="val">$112K</span></div>
+          <div><span class="lbl">Total Rev</span><span class="val">$1.51M</span></div>
+          <div><span class="lbl">Shopify MER</span><span class="val">2.15x</span></div>
+          <div><span class="lbl">Total MER</span><span class="val">2.33x</span></div>
+        </div>
+      </div>
+
+      <div class="scenario-card scenario-aggressive">
+        <div class="scenario-name">Aggressive</div>
+        <div class="scenario-desc">Only if early sale signals are clean (MER/CVR/AOV holding)</div>
+        <div class="scenario-stats">
+          <div><span class="lbl">Paid Spend</span><span class="val">$760K</span></div>
+          <div><span class="lbl">Shopify Rev</span><span class="val">$1.55M</span></div>
+          <div><span class="lbl">Amazon (Base 8%)</span><span class="val">$124K</span></div>
+          <div><span class="lbl">Total Rev</span><span class="val">$1.67M</span></div>
+          <div><span class="lbl">Shopify MER</span><span class="val">2.04x</span></div>
+          <div><span class="lbl">Total MER</span><span class="val">2.20x</span></div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="amazon-band">
+      <div class="amazon-band-title">Amazon assumption band</div>
+      <table class="mini-table">
+        <thead><tr><th>Scenario</th><th>Amazon Low (6%)</th><th>Amazon Base (8%)</th><th>Amazon High (10%)</th></tr></thead>
+        <tbody>
+          <tr><td>Conservative</td><td>$75K</td><td>$100K</td><td>$125K</td></tr>
+          <tr><td>Moderate</td><td>$84K</td><td>$112K</td><td>$140K</td></tr>
+          <tr><td>Aggressive</td><td>$93K</td><td>$124K</td><td>$155K</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Charts -->
+  <section class="panel">
+    <h2>Daily Projection Curves</h2>
+    <p class="panel-sub">All three scenarios overlaid across the 8-day sale window.</p>
     <div class="charts">
       <div class="chart-box"><canvas id="chart-revenue"></canvas></div>
       <div class="chart-box"><canvas id="chart-spend"></canvas></div>
@@ -32,40 +111,57 @@
     </div>
   </section>
 
+  <!-- Daily Breakdown -->
   <section class="panel">
-    <h2>Daily Table</h2>
-    <div class="table-wrap"><table id="daily-table"></table></div>
+    <h2>Daily Breakdown — Moderate Plan</h2>
+    <p class="panel-sub">Day-by-day targets for the recommended working plan. Pacing logic: strong launch, post-launch digest, midweek hold, weekend ramp, final Monday push.</p>
+    <div class="table-wrap"><table id="daily-breakdown"></table></div>
   </section>
 
+  <!-- Offer / Messaging -->
   <section class="panel two-col">
     <div>
-      <h2>Scaling Guardrails</h2>
-      <table id="guardrails-table"></table>
+      <h2>The Offer</h2>
+      <div class="offer-hero">
+        <div class="offer-title">Buy 2 Bands, Get 2 FREE</div>
+        <div class="offer-message">"Add 4 bands to cart. Pay for 2."</div>
+      </div>
+      <ul class="ref">
+        <li><strong>Window:</strong> May 18 – May 25, 2026 (ends 11:59 PM ET)</li>
+        <li><strong>Mechanic:</strong> Automatic discount; customer must add 4 total bands to cart</li>
+        <li><strong>Buy 2 Get 1 Free:</strong> OFF during sale</li>
+        <li><strong>5 for $99:</strong> STAYS ACTIVE alongside B2G2</li>
+      </ul>
     </div>
     <div>
-      <h2>Risk Tracker</h2>
-      <table id="risks-table"></table>
+      <h2>How We Measure</h2>
+      <ul class="ref ref-stacked">
+        <li><strong>Primary paid media metric:</strong> <em>Shopify MER</em> (Shopify revenue ÷ paid spend). This drives all media-buying decisions.</li>
+        <li><strong>Total business metric:</strong> <em>Total MER</em> ((Shopify + Amazon) ÷ paid spend). Reported separately.</li>
+        <li><strong>Amazon treatment:</strong> Shown as a separate additive line. Base model = 8% of Shopify revenue. Do not use Amazon to justify Meta scaling.</li>
+        <li><strong>Working plan:</strong> Moderate scenario unless margin, inventory, or offer clarity say otherwise.</li>
+      </ul>
     </div>
   </section>
 
+  <!-- Presentation Notes -->
   <section class="panel">
-    <h2>Sale Mechanics & Reference</h2>
-    <ul class="ref">
-      <li><strong>Window:</strong> May 18 – May 25, 2026 (ends 11:59 PM ET)</li>
-      <li><strong>Offer:</strong> Buy 2 Bands, Get 2 FREE — automatic discount</li>
-      <li><strong>Core message:</strong> Add 4 bands to cart. Pay for 2.</li>
-      <li><strong>Evergreen:</strong> Buy 2 Get 1 Free OFF · 5 for $99 stays active</li>
-      <li><strong>Primary media metric:</strong> Shopify MER (Shopify revenue ÷ paid spend)</li>
-      <li><strong>Business reporting metric:</strong> Total MER (Shopify + Amazon ÷ paid spend)</li>
-      <li><strong>Amazon assumption:</strong> 8% of Shopify base (6% low / 10% high)</li>
-    </ul>
+    <h2>Key Points for the Team</h2>
+    <ol class="key-points">
+      <li>Use <strong>Shopify MER</strong> for media-buying decisions. Use <strong>Shopify + Amazon MER</strong> only for total business reporting.</li>
+      <li>Amazon is shown as a separate additive line. Base model uses 8% of Shopify revenue (6% low / 10% high).</li>
+      <li>Start with the <strong>moderate plan</strong> unless margin, inventory, or offer comprehension says otherwise.</li>
+      <li>Do not let Amazon revenue alone justify aggressive Meta scaling if Shopify MER is weak.</li>
+      <li>The biggest execution detail is offer clarity: <strong>Add 4 bands to cart. Pay for 2.</strong></li>
+    </ol>
   </section>
+
 </main>
 
 <footer class="wrap muted">
-  Targets locked from the Memorial Day 2026 Projection Export. Actuals updated daily during the sale.
+  Targets locked from the Memorial Day 2026 Projection Export. Live actuals tracked separately on the <a href="tracking.html">Live Tracking</a> page.
 </footer>
 
-<script src="assets/dashboard.js"></script>
+<script src="assets/projections.js"></script>
 </body>
 </html>

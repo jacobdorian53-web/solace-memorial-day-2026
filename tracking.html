@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Solace Memorial Day 2026 — Live Tracking</title>
+<link rel="stylesheet" href="assets/dashboard.css" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<nav class="topnav">
+  <div class="wrap">
+    <a href="index.html">Projections</a>
+    <a href="tracking.html" class="active">Live Tracking</a>
+  </div>
+</nav>
+<header>
+  <div class="wrap">
+    <h1>Solace Memorial Day Sale 2026 — Live Tracking</h1>
+    <div class="sub">
+      <span id="sale-window"></span> &middot;
+      <span id="offer"></span> &middot;
+      <span class="muted">Working plan:</span> <span id="primary-scenario"></span>
+    </div>
+    <div class="updated muted">Last updated: <span id="last-updated">—</span></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="hero" class="cards"></section>
+
+  <section class="panel">
+    <h2>Daily Pacing</h2>
+    <div class="charts">
+      <div class="chart-box"><canvas id="chart-revenue"></canvas></div>
+      <div class="chart-box"><canvas id="chart-spend"></canvas></div>
+      <div class="chart-box"><canvas id="chart-mer"></canvas></div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>Daily Table</h2>
+    <div class="table-wrap"><table id="daily-table"></table></div>
+  </section>
+
+  <section class="panel two-col">
+    <div>
+      <h2>Scaling Guardrails</h2>
+      <table id="guardrails-table"></table>
+    </div>
+    <div>
+      <h2>Risk Tracker</h2>
+      <table id="risks-table"></table>
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>Sale Mechanics & Reference</h2>
+    <ul class="ref">
+      <li><strong>Window:</strong> May 18 – May 25, 2026 (ends 11:59 PM ET)</li>
+      <li><strong>Offer:</strong> Buy 2 Bands, Get 2 FREE — automatic discount</li>
+      <li><strong>Core message:</strong> Add 4 bands to cart. Pay for 2.</li>
+      <li><strong>Evergreen:</strong> Buy 2 Get 1 Free OFF · 5 for $99 stays active</li>
+      <li><strong>Primary media metric:</strong> Shopify MER (Shopify revenue ÷ paid spend)</li>
+      <li><strong>Business reporting metric:</strong> Total MER (Shopify + Amazon ÷ paid spend)</li>
+      <li><strong>Amazon assumption:</strong> 8% of Shopify base (6% low / 10% high)</li>
+    </ul>
+  </section>
+</main>
+
+<footer class="wrap muted">
+  Targets locked from the Memorial Day 2026 Projection Export. Actuals updated daily during the sale.
+</footer>
+
+<script src="assets/dashboard.js"></script>
+</body>
+</html>
