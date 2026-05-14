@@ -341,6 +341,20 @@ td.delta-pos { color: var(--good); }
 td.delta-neg { color: var(--bad); }
 tr.future td { color: var(--muted); }
 
+.framework-note {
+  background: var(--accent-soft);
+  border-left: 3px solid var(--accent);
+  padding: 12px 16px;
+  border-radius: 4px;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+  margin-bottom: 16px;
+  color: var(--ink);
+}
+.framework-note strong { font-weight: 600; }
+.framework-note .muted { display: block; margin-top: 4px; font-size: 12px; }
+
 .pill {
   display: inline-block;
   padding: 2px 8px;

@@ -217,6 +217,19 @@ function renderDailyTable(targets, actuals) {
 }
 
 function renderGuardrails(guardrails) {
+  // Framework callout above the table
+  const fw = guardrails.decision_framework;
+  if (fw) {
+    const callout = `<div class="framework-note">
+      <strong>Shopify MER</strong> is the paid media decision metric. <strong>Total MER</strong> (Shopify + Amazon) is for broader business reporting only.
+      <span class="muted">${fw.context || ''}</span>
+    </div>`;
+    const target = document.getElementById('guardrails-table');
+    if (target && !target.previousElementSibling?.classList.contains('framework-note')) {
+      target.insertAdjacentHTML('beforebegin', callout);
+    }
+  }
+
   const head = '<thead><tr><th>Action</th><th>Signal</th><th>Response</th></tr></thead>';
   const rows = guardrails.scaling.map(g => {
     const cls = g.action === 'Scale Up' ? 'up' : (g.action === 'Hold' ? 'hold' : 'down');
