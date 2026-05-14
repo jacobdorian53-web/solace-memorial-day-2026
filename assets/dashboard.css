@@ -341,6 +341,66 @@ td.delta-pos { color: var(--good); }
 td.delta-neg { color: var(--bad); }
 tr.future td { color: var(--muted); }
 
+/* ===== Notes section ===== */
+.notes-block { margin-bottom: 24px; }
+.notes-block:last-child { margin-bottom: 0; }
+.notes-sub {
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+.notes-empty {
+  background: var(--paper);
+  border: 1px dashed var(--line);
+  border-radius: 6px;
+  padding: 14px 18px;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+  font-size: 13px;
+  color: var(--muted);
+  font-style: italic;
+}
+.wholesale-row {
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+  font-size: 14px;
+  padding: 6px 0;
+}
+.channel-pill {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+.muted-cell { color: var(--muted); font-size: 12px; }
+.pending-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+  font-size: 13px;
+}
+.pending-list li {
+  padding: 8px 0 8px 22px;
+  position: relative;
+  color: var(--ink-soft);
+  border-bottom: 1px solid var(--line-soft);
+}
+.pending-list li:last-child { border-bottom: none; }
+.pending-list li::before {
+  content: "•";
+  position: absolute;
+  left: 6px;
+  color: var(--warn);
+  font-weight: 700;
+}
+
 .framework-note {
   background: var(--accent-soft);
   border-left: 3px solid var(--accent);

@@ -47,9 +47,49 @@ function renderDailyTable(targets) {
   document.getElementById('daily-breakdown').innerHTML = head + '<tbody>' + rows + totalRow + '</tbody>';
 }
 
+function renderNotes(notes) {
+  // Wholesale
+  const ws = notes.wholesale || {};
+  const wsEl = document.getElementById('wholesale-block');
+  if (wsEl) {
+    if (ws.dates && ws.dates.length) {
+      wsEl.classList.remove('notes-empty');
+      wsEl.innerHTML = ws.dates.map(d => `<div class="wholesale-row"><strong>${fmtShortDate(d.date)}</strong> &mdash; ${d.label || ''}</div>`).join('');
+    } else {
+      wsEl.textContent = ws.note || 'Dates TBD.';
+    }
+  }
+
+  // Campaigns table
+  const head = `<thead><tr>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Channel</th>
+    <th>Campaign</th>
+    <th>Audience</th>
+  </tr></thead>`;
+  const rows = (notes.campaigns || []).map(c => `<tr>
+    <td class="date-cell">${fmtShortDate(c.date)}</td>
+    <td>${c.time || ''}</td>
+    <td><span class="channel-pill">${c.channel}</span></td>
+    <td class="day-cell">${c.name}</td>
+    <td class="muted-cell">${c.audience || ''}</td>
+  </tr>`).join('');
+  const tEl = document.getElementById('campaigns-table');
+  if (tEl) tEl.innerHTML = head + '<tbody>' + rows + '</tbody>';
+
+  // Pending list
+  const pEl = document.getElementById('pending-list');
+  if (pEl) pEl.innerHTML = (notes.pending || []).map(p => `<li>${p}</li>`).join('');
+}
+
 async function main() {
-  const targets = await fetchJSON('data/targets.json');
+  const [targets, notes] = await Promise.all([
+    fetchJSON('data/targets.json'),
+    fetchJSON('data/notes.json').catch(() => ({ campaigns: [], pending: [], wholesale: {} }))
+  ]);
   renderDailyTable(targets);
+  renderNotes(notes);
 }
 
 main().catch(e => {
