@@ -2,9 +2,16 @@
   "sale_window": { "start": "2026-05-18", "end": "2026-05-25" },
   "sends": [
     {"date": "2026-05-18", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale (launch)", "audience": "EP High Engagement (Top 10%)"},
+    {"date": "2026-05-18", "time": "AM",       "channel": "SMS",   "name": "Memorial Day Sale launch", "audience": "Postscript list"},
+    {"date": "2026-05-19", "time": "PM",       "channel": "SMS",   "name": "Day 2 push",              "audience": "Postscript list"},
+    {"date": "2026-05-20", "time": "AM",       "channel": "SMS",   "name": "Midweek push",            "audience": "Postscript list"},
     {"date": "2026-05-22", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale Reminder", "audience": "EP High Engagement (Top 10%)"},
+    {"date": "2026-05-22", "time": "AM",       "channel": "SMS",   "name": "Friday reminder",         "audience": "Postscript list"},
     {"date": "2026-05-24", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale – Plain Text", "audience": "EP High Engagement (Top 10%)"},
-    {"date": "2026-05-25", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale Final Reminder", "audience": "EP High Engagement (Top 10%)"}
+    {"date": "2026-05-24", "time": "PM",       "channel": "SMS",   "name": "Sunday push",             "audience": "Postscript list"},
+    {"date": "2026-05-25", "time": "11:00 AM", "channel": "Email", "name": "Memorial Day Sale Final Reminder", "audience": "EP High Engagement (Top 10%)"},
+    {"date": "2026-05-25", "time": "AM",       "channel": "SMS",   "name": "Final day open",          "audience": "Postscript list"},
+    {"date": "2026-05-25", "time": "PM",       "channel": "SMS",   "name": "Final day close",         "audience": "Postscript list"}
   ],
   "pending": []
 }
