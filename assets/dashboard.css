@@ -340,6 +340,22 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 td.delta-pos { color: var(--good); }
 td.delta-neg { color: var(--bad); }
 tr.future td { color: var(--muted); }
+tr.partial td { background: #fff9e6; }
+tr.partial td:first-child { border-left: 3px solid var(--warn); }
+.partial-tag {
+  display: inline-block;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--warn);
+  background: #fff3d6;
+  padding: 2px 7px;
+  border-radius: 3px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
 
 /* ===== Send Calendar ===== */
 .send-calendar {

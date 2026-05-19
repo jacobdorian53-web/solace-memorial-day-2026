@@ -194,9 +194,14 @@ function renderDailyTable(targets, actuals) {
     };
 
     const future = d.date > today;
-    return `<tr class="${future ? 'future' : ''}">
+    const partial = !!a.partial;
+    const rowCls = [future ? 'future' : '', partial ? 'partial' : ''].filter(Boolean).join(' ');
+    const dayCell = partial
+      ? `${d.day} <span class="partial-tag">partial · as of ${(a.as_of || '').slice(11,16) || '—'} ET</span>`
+      : d.day;
+    return `<tr class="${rowCls}">
       <td>${d.date}</td>
-      <td>${d.day}</td>
+      <td>${dayCell}</td>
       <td class="num">${usd(t.paid_spend)}</td>
       <td class="num">${a.paid_spend != null ? usd(a.paid_spend) : '—'}</td>
       ${dCell(a.paid_spend, t.paid_spend)}
@@ -257,7 +262,15 @@ async function main() {
   document.getElementById('sale-window').textContent = `${targets.sale.start} → ${targets.sale.end}`;
   document.getElementById('offer').textContent = targets.sale.offer;
   document.getElementById('primary-scenario').textContent = actuals.primary_scenario.charAt(0).toUpperCase() + actuals.primary_scenario.slice(1);
-  document.getElementById('last-updated').textContent = actuals.last_updated || '—';
+  // Find the most recent partial day (if any) to show a mid-day banner
+  const latestPartial = [...actuals.days].reverse().find(d => d.partial);
+  const lastUpdatedEl = document.getElementById('last-updated');
+  if (latestPartial) {
+    const t = (latestPartial.as_of || '').slice(11,16);
+    lastUpdatedEl.innerHTML = `${actuals.last_updated || '—'} &middot; <span style="color: var(--warn); font-weight: 600;">Includes intraday read for ${latestPartial.date} as of ${t} ET</span>`;
+  } else {
+    lastUpdatedEl.textContent = actuals.last_updated || '—';
+  }
 
   renderHero(targets, actuals);
   renderCharts(targets, actuals);

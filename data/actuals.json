@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T11:10:00-04:00",
+  "last_updated": "2026-05-19T14:37:00-04:00",
   "primary_scenario": "moderate",
   "days": [
     {
@@ -25,6 +25,28 @@
       "blended_cm": 21,
       "amazon_profit": 11416,
       "note": "Launch Monday — strong beat. Shopify ROAS 2.85x on $80K spend, +25% over $182K target. 67% new customers. NC-ROAS 1.90x healthy."
+    },
+    {
+      "date": "2026-05-19",
+      "partial": true,
+      "as_of": "2026-05-19T14:30:00-04:00",
+      "paid_spend": 39172,
+      "shopify_revenue": 85085,
+      "amazon_revenue": 1285,
+      "blended_cpa": 37.88,
+      "ncpa": 51.80,
+      "shopify_roas": 2.17,
+      "nc_roas": 1.59,
+      "mer_pct": 0.46,
+      "mer_plus_amazon_pct": 0.42,
+      "net_profit": 15999,
+      "net_profit_plus_amazon": 20634,
+      "net_margin_pct": 0.19,
+      "net_margin_plus_amazon_pct": 0.22,
+      "margin_per_nc_order": 8,
+      "blended_cm": 11,
+      "amazon_profit": 4635,
+      "note": "As of 2:30 PM ET (partial day). Shopify ROAS 2.17x, NC-ROAS 1.59 — sitting on scale-up threshold but margin/NC tightening ($17 → $8). NCPA up to $51.80. Digestion day playing out per plan."
     }
   ]
 }
