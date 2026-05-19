@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-05-14T15:25:00-04:00",
+  "last_updated": "2026-05-19T11:10:00-04:00",
   "primary_scenario": "moderate",
-  "days": []
+  "days": [
+    {
+      "date": "2026-05-18",
+      "paid_spend": 79886,
+      "shopify_revenue": 227326,
+      "amazon_revenue": 15113,
+      "gross_sales": 373753,
+      "new_customer_revenue": 151557,
+      "new_customer_pct": 0.67,
+      "returning_customer_pct": 0.33,
+      "blended_cpa": 29.83,
+      "ncpa": 43.40,
+      "shopify_roas": 2.85,
+      "nc_roas": 1.90,
+      "mer_pct": 0.35,
+      "mer_plus_amazon_pct": 0.33,
+      "net_profit": 72534,
+      "net_profit_plus_amazon": 83949,
+      "net_margin_pct": 0.32,
+      "net_margin_plus_amazon_pct": 0.33,
+      "margin_per_nc_order": 17,
+      "blended_cm": 21,
+      "amazon_profit": 11416,
+      "note": "Launch Monday — strong beat. Shopify ROAS 2.85x on $80K spend, +25% over $182K target. 67% new customers. NC-ROAS 1.90x healthy."
+    }
+  ]
 }
