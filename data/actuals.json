@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T07:50:00-04:00",
+  "last_updated": "2026-05-20T13:39:00-04:00",
   "primary_scenario": "moderate",
   "days": [
     {
@@ -60,6 +60,28 @@
       "blended_cm": 11,
       "amazon_profit": 10638,
       "note": "Day 2 closed +20% over $68K spend plan ($81.6K spent); Shopify rev $176K beat $154K target by 14%. Closing ROAS 2.16x. NC economics tight — margin/NC $7, NCPA $52.70. PM SMS push likely drove the second-half spend ramp."
+    },
+    {
+      "date": "2026-05-20",
+      "partial": true,
+      "as_of": "2026-05-20T13:30:00-04:00",
+      "paid_spend": 37930,
+      "shopify_revenue": 92655,
+      "amazon_revenue": 978,
+      "blended_cpa": 35.42,
+      "ncpa": 49.10,
+      "shopify_roas": 2.44,
+      "nc_roas": 1.72,
+      "mer_pct": 0.41,
+      "mer_plus_amazon_pct": 0.38,
+      "net_profit": 23547,
+      "net_profit_plus_amazon": 27347,
+      "net_margin_pct": 0.25,
+      "net_margin_plus_amazon_pct": 0.27,
+      "margin_per_nc_order": 12,
+      "blended_cm": 16,
+      "amazon_profit": 3800,
+      "note": "As of 1:30 PM ET (partial day). Day 3 outpacing Day 2 intraday on every metric — ROAS 2.44 (vs 2.17 D2 intraday), NC-ROAS 1.72 (vs 1.59), margin/NC $12 (vs $8). Wed AM SMS push working. Plan: modest +10-15% over $65K spend plan ($72-75K target)."
     }
   ]
 }
