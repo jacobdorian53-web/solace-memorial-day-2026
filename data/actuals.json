@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T19:14:00-04:00",
+  "last_updated": "2026-05-21T07:10:00-04:00",
   "primary_scenario": "moderate",
   "days": [
     {
@@ -63,26 +63,24 @@
     },
     {
       "date": "2026-05-20",
-      "partial": true,
-      "as_of": "2026-05-20T19:14:00-04:00",
-      "paid_spend": 63256,
-      "shopify_revenue": 143534,
-      "amazon_revenue": 2700,
-      "new_customer_revenue": 101819,
-      "blended_cpa": 37.81,
-      "ncpa": 50.80,
-      "shopify_roas": 2.27,
-      "nc_roas": 1.61,
-      "mer_pct": 0.44,
-      "mer_plus_amazon_pct": 0.41,
-      "net_profit": 33323,
-      "net_profit_plus_amazon": 39930,
-      "net_margin_pct": 0.23,
+      "paid_spend": 85700,
+      "shopify_revenue": 187809,
+      "amazon_revenue": 13797,
+      "new_customer_revenue": 134685,
+      "blended_cpa": 39.10,
+      "ncpa": 52.40,
+      "shopify_roas": 2.19,
+      "nc_roas": 1.57,
+      "mer_pct": 0.46,
+      "mer_plus_amazon_pct": 0.42,
+      "net_profit": 42122,
+      "net_profit_plus_amazon": 52501,
+      "net_margin_pct": 0.22,
       "net_margin_plus_amazon_pct": 0.25,
-      "margin_per_nc_order": 8,
-      "blended_cm": 14,
-      "amazon_profit": 6608,
-      "note": "As of 7:14 PM ET (partial day). Through 19hrs: spend $63.3K (target $65K full-day), Shopify rev $143.5K (target $148K), ROAS 2.27x — running on target. NC-ROAS softened from 1.72 midday to 1.61. Pacing to close near plan ($70-72K spend / $155-165K Shopify rev)."
+      "margin_per_nc_order": 7,
+      "blended_cm": 12,
+      "amazon_profit": 10379,
+      "note": "Day 3 closed $85.7K spend (target $65K · +32% over plan); Shopify rev $187.8K beat $148K target by 27%. Closing ROAS 2.19x. Spend ramped hard in evening — team pushed past the +10-15% target call."
     }
   ]
 }
