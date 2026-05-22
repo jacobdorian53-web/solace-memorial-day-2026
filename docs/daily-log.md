@@ -99,6 +99,45 @@ Dashboard scaffolded and pushed. Targets locked from Moderate plan ($650K spend 
 - If you want to push, cap at +10% ($72-75K), and ONLY on Google + top Meta ad sets that are pulling 2.0+ ROAS
 - Pull back signal: if Meta NC-ROAS drops below 1.3 by 2pm without a SMS lift to explain it, cut spend back to plan immediately
 
+### 2026-05-21 (Thu) — Day 4, full close
+- **Spend:** $79,732 (target $68K) — **+$11.7K / +17% over plan**
+- **Shopify Rev:** $140,685 (target $158K) — **−$17.3K / −11% MISS**
+- **Amazon Rev:** $14,655 (target $11.8K) — beat
+- **Total Rev:** $155,340 (target $169.8K) — **−9% miss**
+- **Shopify ROAS:** 1.76x (target 2.32x) — **0.56x under target · in pull-back territory**
+- **NC-ROAS:** 1.37 (vs 1.57 Day 3) — **below 1.4 pull-back line**
+- **MER:** 57% Shopify
+- **Blended CPA:** $46.96 (vs $39.10 Day 3) · **NCPA:** $57.80 (vs $52.40)
+- **Net Profit:** $13,485 (vs $42,122 Day 3) — **−68%**
+- **New Customer Revenue:** $109,467
+- **Returning Customer Revenue:** $31,218
+- **Orders:** 1,844 (1,698 paid · 1,380 new customer)
+- **Units sold:** 6,174
+- **AOV:** $66 (vs $69 Day 2)
+- **Gross Sales:** $224,514
+- **New customer %:** 75% (up from 70% Day 2)
+
+**Read:** The catalyst-free Thursday hypothesis played out, hard. No email send, no SMS push — and despite the team spending +17% over plan ($79.7K vs $68K), the day delivered the softest results of the sale. Shopify revenue MISSED target by 11% — the first day of the sale to miss plan on revenue. ROAS at 1.76x is meaningfully under the 1.8 hold-zone floor; NC-ROAS at 1.37 is under the 1.4 pull-back trigger.
+
+**The pattern break:** Days 1-3 delivered ~$2 of revenue per dollar of incremental spend. Day 4 delivered $1.76 per dollar — and without catalyst lift, that's the underlying ceiling of what paid alone can pull at this point in the sale. Net profit collapsed to $13.5K — that's 1/3 of Wednesday's profit on roughly the same spend.
+
+**The good:** New customer mix held strong (75%, up from 70%). Net profit was still positive ($13.5K Shopify, plus Amazon contribution). The day didn't break — it just confirmed paid efficiency tops out around 1.7-1.8x ROAS when nothing is supporting it from owned channels.
+
+**The reality:** Spending +17% over plan into a catalyst-free day cost ~$12K in spend for what would have been roughly the same revenue at plan. Per the action consideration written Wed night ("Thu is the day to NOT push without a catalyst"), this is the predicted scenario.
+
+**Sale-to-date through Day 4:** Spend $326.9K (target $286K · +14%) · Shopify Rev $732K (target $642K · +14%) · Total Rev $790.1K (target $692.6K · +14%) · Blended Shopify ROAS 2.24x · Blended NC-ROAS ~1.59x.
+
+**Net profit STD:** Shopify $166.2K · w/ Amazon ~$199K (Day 4 Amazon profit not yet logged).
+
+**Action consideration for Day 5 (Fri):**
+- Plan is $81K spend / $189K Shopify rev / 2.34x target
+- **Friday has full catalyst stack:** Email (Memorial Day Sale Reminder, 11am to EP top 10%) + SMS (Friday reminder, AM) to Postscript list
+- Team is already running hot — you mentioned $80K on Meta alone today, total tracking $95-110K
+- The catalyst stack supports a push, but Day 4's collapse is a real datapoint — we are clearly above the natural ceiling on paid efficiency without owned-channel support
+- Honest call: **Friday's catalyst stack should pull ROAS back to 2.0-2.3x range**. With $95-110K total spend, expect $200-250K Shopify rev if the catalysts hit
+- Hard watch: if AM email/SMS doesn't move NC-ROAS above 1.5 by 1pm, cut afternoon spend back to plan ($81K total)
+- The $70K+ in banked revenue beat through Day 3 has now been spent down — we are within $20K of plan cumulatively after Day 4. Less headroom for another miss.
+
 <!-- Template for next days:
 
 ### YYYY-MM-DD (DOW) — Day name
