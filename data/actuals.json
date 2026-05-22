@@ -99,13 +99,20 @@
       "aov": 66,
       "returns": 2728,
       "taxes": 8834,
+      "nc_aov": 79,
       "blended_cpa": 46.96,
       "ncpa": 57.80,
       "shopify_roas": 1.76,
       "nc_roas": 1.37,
       "mer_pct": 0.57,
       "net_profit": 13485,
-      "note": "Day 4 (Thu) — catalyst-free day, softest of the sale. Spend $79.7K (+17% over $68K plan). Shopify rev $140.7K MISSED $158K target by 11%. ROAS 1.76x (target 2.32x) — below 1.8 hold zone, in pull-back territory. NC-ROAS 1.37 — below the 1.4 pull-back line. Net profit collapsed to $13.5K vs $42K Wed. Catalyst-free hypothesis played out."
+      "net_profit_plus_amazon": 22716,
+      "net_margin_plus_amazon_pct": 0.14,
+      "blended_cm": 3,
+      "amazon_profit": 9231,
+      "variable_expenses": 40158,
+      "custom_expenses": 5469,
+      "note": "Day 4 (Thu) — catalyst-free day, softest of the sale. Spend $79.7K (+17% over $68K plan). Shopify rev $140.7K MISSED $158K target by 11%. ROAS 1.76x (target 2.32x) — below 1.8 hold zone, in pull-back territory. NC-ROAS 1.37 — below the 1.4 pull-back line. Net profit collapsed to $13.5K vs $42K Wed. Blended CM dropped to $3 (vs $12 Wed) — paid efficiency at the floor. Catalyst-free hypothesis played out."
     }
   ]
 }

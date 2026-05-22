@@ -108,12 +108,17 @@ Dashboard scaffolded and pushed. Targets locked from Moderate plan ($650K spend 
 - **NC-ROAS:** 1.37 (vs 1.57 Day 3) — **below 1.4 pull-back line**
 - **MER:** 57% Shopify
 - **Blended CPA:** $46.96 (vs $39.10 Day 3) · **NCPA:** $57.80 (vs $52.40)
-- **Net Profit:** $13,485 (vs $42,122 Day 3) — **−68%**
+- **Net Profit (Shopify):** $13,485 (vs $42,122 Day 3) — **−68%**
+- **Net Profit + Amazon:** $22,716 (−57% vs prev period)
+- **Net Margin + Amazon:** 14% (vs 25% Day 3) — **−43%**
+- **Amazon Profit:** $9,231
+- **Blended CM:** **$3** (vs $12 Day 3, $11 Day 1) — **−77% · paid efficiency at floor**
+- **Variable Expenses:** $40,158 · **Custom Expenses:** $5,469
 - **New Customer Revenue:** $109,467
 - **Returning Customer Revenue:** $31,218
 - **Orders:** 1,844 (1,698 paid · 1,380 new customer)
 - **Units sold:** 6,174
-- **AOV:** $66 (vs $69 Day 2)
+- **AOV:** $66 (vs $69 Day 2) · **NC-AOV:** $79
 - **Gross Sales:** $224,514
 - **New customer %:** 75% (up from 70% Day 2)
 
@@ -127,7 +132,7 @@ Dashboard scaffolded and pushed. Targets locked from Moderate plan ($650K spend 
 
 **Sale-to-date through Day 4:** Spend $326.9K (target $286K · +14%) · Shopify Rev $732K (target $642K · +14%) · Total Rev $790.1K (target $692.6K · +14%) · Blended Shopify ROAS 2.24x · Blended NC-ROAS ~1.59x.
 
-**Net profit STD:** Shopify $166.2K · w/ Amazon ~$199K (Day 4 Amazon profit not yet logged).
+**Net profit STD:** Shopify $166.2K · w/ Amazon $207.8K (Day 4 Amazon profit $9.2K).
 
 **Action consideration for Day 5 (Fri):**
 - Plan is $81K spend / $189K Shopify rev / 2.34x target
