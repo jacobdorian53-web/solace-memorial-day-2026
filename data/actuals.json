@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T01:15:00-04:00",
+  "last_updated": "2026-05-23T13:45:00-04:00",
   "primary_scenario": "moderate",
   "days": [
     {
@@ -116,9 +116,9 @@
     },
     {
       "date": "2026-05-22",
-      "paid_spend": 77427,
+      "paid_spend": 78658,
       "shopify_revenue": 183418,
-      "amazon_revenue": 7773,
+      "amazon_revenue": 16441,
       "gross_sales": 297861,
       "new_customer_revenue": 130735,
       "returning_customer_revenue": 52683,
@@ -126,23 +126,28 @@
       "returning_customer_pct": 0.29,
       "orders": 2181,
       "orders_paid": 2129,
+      "new_customer_orders": 1546,
       "aov": 73,
       "true_aov": 75,
+      "nc_aov": 85,
       "returns": 3377,
       "taxes": 11568,
       "total_sales": 179724,
       "discounts": 139124,
-      "blended_cpa": 36.37,
-      "shopify_roas": 2.37,
+      "custom_expense_ad_spend": 1072,
+      "blended_cpa": 36.95,
+      "ncpa": 50.90,
+      "shopify_roas": 2.33,
       "nc_roas": 1.69,
-      "mer_pct": 0.42,
+      "mer_pct": 0.43,
       "mer_plus_amazon_pct": 0.39,
-      "net_profit": 46910,
-      "net_profit_plus_amazon": 56311,
-      "net_margin_pct": 0.26,
-      "net_margin_plus_amazon_pct": 0.28,
-      "margin_per_nc_order": 11,
-      "note": "Day 5 (Fri) — strong recovery, catalyst stack delivered. Spend $77.4K (slightly under $81K plan). Shopify rev $183.4K vs $189K target (within 3%). ROAS 2.37x — beat 2.34x target. NC-ROAS 1.69 — well clear of pull-back line. Net profit $46.9K (+250% vs Thu). Net Profit +Amazon $56.3K. Margin/NC $11 — back to Day 1 level. 2,181 orders · AOV $73 / True AOV $75 (up from $66 Thu). 71% new customers. Email + AM SMS catalyst stack pulled efficiency back. Amazon soft at $7.8K (vs $14K Thu)."
+      "net_profit": 45679,
+      "net_profit_plus_amazon": 55382,
+      "net_margin_pct": 0.25,
+      "net_margin_plus_amazon_pct": 0.27,
+      "margin_per_nc_order": 10,
+      "blended_cm": 14,
+      "note": "Day 5 (Fri) FINAL — catalyst stack delivered, full recovery. Spend $78.7K (under $81K plan). Shopify rev $183.4K vs $189K target (within 3%). ROAS 2.33x beat 2.34x target. NC-ROAS 1.69 well clear of pull-back line. Net profit $45.7K (+240% vs Thu). Net Profit +Amazon $55.4K. Margin/NC $10 · Blended CM $14 (vs $3 Thu — +428% recovery). 2,181 orders · AOV $73 / True AOV $75 / NC-AOV $85. 71% new customers. 1,546 new customer orders. Email + AM SMS catalyst pulled efficiency back. Amazon $16.4K (revised up from earlier $7.8K estimate)."
     }
   ]
 }

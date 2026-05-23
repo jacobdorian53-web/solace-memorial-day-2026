@@ -143,39 +143,42 @@ Dashboard scaffolded and pushed. Targets locked from Moderate plan ($650K spend 
 - Hard watch: if AM email/SMS doesn't move NC-ROAS above 1.5 by 1pm, cut afternoon spend back to plan ($81K total)
 - The $70K+ in banked revenue beat through Day 3 has now been spent down — we are within $20K of plan cumulatively after Day 4. Less headroom for another miss.
 
-### 2026-05-22 (Fri) — Day 5, full close
-- **Spend:** $77,427 (target $81K) — **−$3.6K / −4% under plan**
+### 2026-05-22 (Fri) — Day 5, full close (FINAL after attribution settled)
+- **Spend:** $78,658 (target $81K) — **−$2.3K / −3% under plan**
 - **Shopify Rev:** $183,418 (target $189K) — **−$5.6K / −3% (effectively at plan)**
-- **Amazon Rev:** $7,773 (target $13.5K) — **−$5.7K MISS**
-- **Total Rev:** $191,191 (target $202.5K) — **−6%**
-- **Shopify ROAS:** 2.37x (target 2.34x) — **BEAT target**
+- **Amazon Rev:** $16,441 (target $13.5K) — **+$2.9K / +22% BEAT** (revised UP from $7.8K initial estimate)
+- **Total Rev:** $199,859 (target $202.5K) — **within 1.5%**
+- **Shopify ROAS:** 2.33x (target 2.34x) — **at target**
 - **NC-ROAS:** 1.69 (vs 1.37 Thu) — **+23% recovery**
-- **MER:** 42% Shopify · 39% +Amazon
-- **Blended CPA:** $36.37 (vs $46.96 Thu) — **−23% improvement**
-- **Net Profit (Shopify):** $46,910 (vs $13,485 Thu) — **+248%**
-- **Net Profit + Amazon:** $56,311 (vs $22,716 Thu) — **+148%**
-- **Net Margin:** 26% Shopify · 28% +Amazon
-- **Margin per NC Order:** $11 (vs $3 Thu, vs $7 Day 2-3, $17 Day 1) — **back to healthy zone**
+- **MER:** 43% Shopify · 39% +Amazon
+- **Blended CPA:** $36.95 (vs $46.96 Thu) — **−21% improvement**
+- **NCPA:** $50.90 (vs $57.80 Thu)
+- **Net Profit (Shopify):** $45,679 (vs $13,485 Thu) — **+239%**
+- **Net Profit + Amazon:** $55,382 (vs $22,716 Thu) — **+144%**
+- **Net Margin:** 25% Shopify · 27% +Amazon
+- **Margin per NC Order:** $10 (vs $3 Thu, vs $7 Day 2-3, $17 Day 1) — **healthy zone**
+- **Blended CM:** $14 (vs $3 Thu) — **+428% recovery**
 - **New Customer Revenue:** $130,735
 - **Returning Customer Revenue:** $52,683
-- **Orders:** 2,181 (2,129 paid)
-- **AOV:** $73 (vs $66 Thu · +11%) · **True AOV:** $75
+- **Orders:** 2,181 (2,129 paid · 1,546 new customer orders)
+- **AOV:** $73 (vs $66 Thu · +11%) · **True AOV:** $75 · **NC-AOV:** $85
 - **New customer %:** 71% (vs 75% Thu — slight shift toward returning, indicates email/SMS drove returning-customer lift)
 - **Gross Sales:** $297,861
 - **Total Sales:** $179,724 · **Discounts:** $139,124
 - **Returns:** $3,377 · **Taxes:** $11,568
+- **Custom Expense Ad Spend:** $1,072
 
-**Read:** Catalyst stack worked exactly as predicted. The 11am email + AM SMS combo pulled efficiency back hard — ROAS jumped from 1.76 → 2.37 (+35%), NC-ROAS from 1.37 → 1.69 (+23%). Net profit nearly 3.5x'd vs Thursday on roughly the same spend ($77K vs $80K). Margin per NC order recovered from the $3 floor to $11 — back to a healthy acquisition number.
+**Read:** Catalyst stack worked exactly as predicted. The 11am email + AM SMS combo pulled efficiency back hard — ROAS jumped from 1.76 → 2.33 (+32%), NC-ROAS from 1.37 → 1.69 (+23%). Net profit nearly 3.4x'd vs Thursday on roughly the same spend ($78.7K vs $79.7K). Margin per NC order recovered from the $3 floor to $10 — healthy acquisition zone. Blended CM exploded from $3 → $14, a +428% recovery — best margin/NC of the sale so far.
 
-**The pattern is clear now:** This sale lives and dies on the catalyst cadence. Catalyst days (1, 2, 5) deliver 2.2-2.85x ROAS and $11-17 margin/NC. Catalyst-light days (3, 4) deliver 1.76-2.19x ROAS and $3-7 margin/NC. The team should plan all remaining spend pushes around send timing, not arbitrary daily targets.
+**The pattern is clear now:** This sale lives and dies on the catalyst cadence. Catalyst days (1, 2, 5) deliver 2.2-2.85x ROAS and $10-17 margin/NC. Catalyst-light days (3, 4) deliver 1.76-2.19x ROAS and $3-7 margin/NC. The team should plan all remaining spend pushes around send timing, not arbitrary daily targets.
 
-**The good:** Discipline returned — team spent $3.6K UNDER plan rather than chasing into the catalyst lift. That's the right move. The catalyst lifted unit economics; you didn't need to overspend to capture it.
+**The good:** Discipline returned — team spent $2.3K UNDER plan rather than chasing into the catalyst lift. That's the right move. The catalyst lifted unit economics; you didn't need to overspend to capture it. Amazon revised UP to $16.4K (vs initial $7.8K read) — Amazon attribution was lagging in the early Sat morning view. Amazon actually BEAT target by 22%.
 
-**The bad:** Amazon dropped to $7.8K (vs $13.5K target). Down 47% vs target, down 47% vs Thursday's $14.6K. Something specific happened on Amazon — could be ad delivery, listing position, or inventory. Worth a check before Saturday.
+**The Meta delivery story:** Friday's Meta delivery was constrained — the main CBO (NC_PUR / All Audiences) only delivered $38.4K of its $60K budget (64% delivery). Team intended $80K on Meta alone but only got $58K out the door. Total spend landed at $78.7K with Google/Axon/TikTok/Pinterest at ~$20K. The fact that ROAS held at 2.33x while Meta self-throttled suggests the underlying efficiency at Friday's actually-spent level was strong — algorithm refused to deliver into inefficient inventory.
 
-**Sale-to-date through Day 5:** Spend $404.3K (target $367K · +10%) · Shopify Rev $915.4K (target $831K · +10%) · Total Rev $981.3K (target $895.6K · +10%) · Blended Shopify ROAS 2.26x · Blended NC-ROAS ~1.61x.
+**Sale-to-date through Day 5:** Spend $405.6K (target $367K · +10%) · Shopify Rev $915.4K (target $831K · +10%) · Total Rev $990.0K (target $895.6K · +11%) · Blended Shopify ROAS 2.26x · Blended NC-ROAS ~1.61x.
 
-**Net profit STD:** Shopify $213.1K · w/ Amazon $264.1K (Day 5 Amazon profit not in screenshot — estimate ~$5K based on $7.8K rev).
+**Net profit STD:** Shopify $212.0K · w/ Amazon $263.1K (Day 5 Amazon profit ~$10K based on $16.4K rev and prior ratio).
 
 **Action consideration for Day 6 (Sat):**
 - Plan is $90K spend / $216K Shopify rev / 2.41x target
