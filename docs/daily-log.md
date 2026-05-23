@@ -158,7 +158,12 @@ Dashboard scaffolded and pushed. Targets locked from Moderate plan ($650K spend 
 - **Margin per NC Order:** $11 (vs $3 Thu, vs $7 Day 2-3, $17 Day 1) — **back to healthy zone**
 - **New Customer Revenue:** $130,735
 - **Returning Customer Revenue:** $52,683
+- **Orders:** 2,181 (2,129 paid)
+- **AOV:** $73 (vs $66 Thu · +11%) · **True AOV:** $75
+- **New customer %:** 71% (vs 75% Thu — slight shift toward returning, indicates email/SMS drove returning-customer lift)
+- **Gross Sales:** $297,861
 - **Total Sales:** $179,724 · **Discounts:** $139,124
+- **Returns:** $3,377 · **Taxes:** $11,568
 
 **Read:** Catalyst stack worked exactly as predicted. The 11am email + AM SMS combo pulled efficiency back hard — ROAS jumped from 1.76 → 2.37 (+35%), NC-ROAS from 1.37 → 1.69 (+23%). Net profit nearly 3.5x'd vs Thursday on roughly the same spend ($77K vs $80K). Margin per NC order recovered from the $3 floor to $11 — back to a healthy acquisition number.
 

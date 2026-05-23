@@ -119,8 +119,17 @@
       "paid_spend": 77427,
       "shopify_revenue": 183418,
       "amazon_revenue": 7773,
+      "gross_sales": 297861,
       "new_customer_revenue": 130735,
       "returning_customer_revenue": 52683,
+      "new_customer_pct": 0.71,
+      "returning_customer_pct": 0.29,
+      "orders": 2181,
+      "orders_paid": 2129,
+      "aov": 73,
+      "true_aov": 75,
+      "returns": 3377,
+      "taxes": 11568,
       "total_sales": 179724,
       "discounts": 139124,
       "blended_cpa": 36.37,
@@ -133,7 +142,7 @@
       "net_margin_pct": 0.26,
       "net_margin_plus_amazon_pct": 0.28,
       "margin_per_nc_order": 11,
-      "note": "Day 5 (Fri) — strong recovery, catalyst stack delivered. Spend $77.4K (slightly under $81K plan). Shopify rev $183.4K vs $189K target (within 3%). ROAS 2.37x — beat 2.34x target. NC-ROAS 1.69 — well clear of pull-back line. Net profit $46.9K (+250% vs Thu). Net Profit +Amazon $56.3K. Margin/NC $11 — back to Day 1 level. Email + AM SMS catalyst stack pulled efficiency back. Amazon soft at $7.8K (vs $14K Thu)."
+      "note": "Day 5 (Fri) — strong recovery, catalyst stack delivered. Spend $77.4K (slightly under $81K plan). Shopify rev $183.4K vs $189K target (within 3%). ROAS 2.37x — beat 2.34x target. NC-ROAS 1.69 — well clear of pull-back line. Net profit $46.9K (+250% vs Thu). Net Profit +Amazon $56.3K. Margin/NC $11 — back to Day 1 level. 2,181 orders · AOV $73 / True AOV $75 (up from $66 Thu). 71% new customers. Email + AM SMS catalyst stack pulled efficiency back. Amazon soft at $7.8K (vs $14K Thu)."
     }
   ]
 }
