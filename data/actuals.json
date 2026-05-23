@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T13:45:00-04:00",
+  "last_updated": "2026-05-23T19:50:00-04:00",
   "primary_scenario": "moderate",
   "days": [
     {
@@ -148,6 +148,44 @@
       "margin_per_nc_order": 10,
       "blended_cm": 14,
       "note": "Day 5 (Fri) FINAL — catalyst stack delivered, full recovery. Spend $78.7K (under $81K plan). Shopify rev $183.4K vs $189K target (within 3%). ROAS 2.33x beat 2.34x target. NC-ROAS 1.69 well clear of pull-back line. Net profit $45.7K (+240% vs Thu). Net Profit +Amazon $55.4K. Margin/NC $10 · Blended CM $14 (vs $3 Thu — +428% recovery). 2,181 orders · AOV $73 / True AOV $75 / NC-AOV $85. 71% new customers. 1,546 new customer orders. Email + AM SMS catalyst pulled efficiency back. Amazon $16.4K (revised up from earlier $7.8K estimate)."
+    },
+    {
+      "date": "2026-05-23",
+      "partial": true,
+      "as_of": "2026-05-23T18:43:00-04:00",
+      "paid_spend": 78822,
+      "shopify_revenue": 150551,
+      "amazon_revenue": 3469,
+      "gross_sales": 239225,
+      "new_customer_revenue": 117610,
+      "returning_customer_revenue": 32941,
+      "new_customer_pct": 0.78,
+      "returning_customer_pct": 0.22,
+      "orders": 1809,
+      "orders_paid": 1793,
+      "units_sold": 6350,
+      "aov": 72,
+      "true_aov": 72,
+      "nc_aov": 83,
+      "returns": 90,
+      "taxes": 9772,
+      "total_sales": 150432,
+      "discounts": 109386,
+      "custom_expenses": 5430,
+      "variable_expenses_per_order": 23,
+      "blended_cpa": 44.08,
+      "ncpa": 56.00,
+      "shopify_roas": 1.91,
+      "nc_roas": 1.49,
+      "mer_pct": 0.52,
+      "mer_plus_amazon_pct": 0.48,
+      "net_profit": 24778,
+      "net_profit_plus_amazon": 33048,
+      "net_margin_pct": 0.16,
+      "net_margin_plus_amazon_pct": 0.20,
+      "margin_per_nc_order": 4,
+      "blended_cm": 5,
+      "note": "Day 6 (Sat) — PARTIAL as of 6:43pm. Spend pacing $78.8K (already at full-day Thu/Fri spend levels). Shopify rev $150.6K. ROAS 1.91x, NC-ROAS 1.49 — softening as expected for catalyst-free day. Margin/NC $4 · Blended CM $5 — back near Day 4 floor. 78% new customers (highest of sale). Amazon very weak at $3.5K — second day in a row Amazon underperforming. Day expected to close around $185-200K Shopify rev / 1.9-2.0x ROAS."
     }
   ]
 }
