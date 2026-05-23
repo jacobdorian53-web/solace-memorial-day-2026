@@ -143,6 +143,44 @@ Dashboard scaffolded and pushed. Targets locked from Moderate plan ($650K spend 
 - Hard watch: if AM email/SMS doesn't move NC-ROAS above 1.5 by 1pm, cut afternoon spend back to plan ($81K total)
 - The $70K+ in banked revenue beat through Day 3 has now been spent down — we are within $20K of plan cumulatively after Day 4. Less headroom for another miss.
 
+### 2026-05-22 (Fri) — Day 5, full close
+- **Spend:** $77,427 (target $81K) — **−$3.6K / −4% under plan**
+- **Shopify Rev:** $183,418 (target $189K) — **−$5.6K / −3% (effectively at plan)**
+- **Amazon Rev:** $7,773 (target $13.5K) — **−$5.7K MISS**
+- **Total Rev:** $191,191 (target $202.5K) — **−6%**
+- **Shopify ROAS:** 2.37x (target 2.34x) — **BEAT target**
+- **NC-ROAS:** 1.69 (vs 1.37 Thu) — **+23% recovery**
+- **MER:** 42% Shopify · 39% +Amazon
+- **Blended CPA:** $36.37 (vs $46.96 Thu) — **−23% improvement**
+- **Net Profit (Shopify):** $46,910 (vs $13,485 Thu) — **+248%**
+- **Net Profit + Amazon:** $56,311 (vs $22,716 Thu) — **+148%**
+- **Net Margin:** 26% Shopify · 28% +Amazon
+- **Margin per NC Order:** $11 (vs $3 Thu, vs $7 Day 2-3, $17 Day 1) — **back to healthy zone**
+- **New Customer Revenue:** $130,735
+- **Returning Customer Revenue:** $52,683
+- **Total Sales:** $179,724 · **Discounts:** $139,124
+
+**Read:** Catalyst stack worked exactly as predicted. The 11am email + AM SMS combo pulled efficiency back hard — ROAS jumped from 1.76 → 2.37 (+35%), NC-ROAS from 1.37 → 1.69 (+23%). Net profit nearly 3.5x'd vs Thursday on roughly the same spend ($77K vs $80K). Margin per NC order recovered from the $3 floor to $11 — back to a healthy acquisition number.
+
+**The pattern is clear now:** This sale lives and dies on the catalyst cadence. Catalyst days (1, 2, 5) deliver 2.2-2.85x ROAS and $11-17 margin/NC. Catalyst-light days (3, 4) deliver 1.76-2.19x ROAS and $3-7 margin/NC. The team should plan all remaining spend pushes around send timing, not arbitrary daily targets.
+
+**The good:** Discipline returned — team spent $3.6K UNDER plan rather than chasing into the catalyst lift. That's the right move. The catalyst lifted unit economics; you didn't need to overspend to capture it.
+
+**The bad:** Amazon dropped to $7.8K (vs $13.5K target). Down 47% vs target, down 47% vs Thursday's $14.6K. Something specific happened on Amazon — could be ad delivery, listing position, or inventory. Worth a check before Saturday.
+
+**Sale-to-date through Day 5:** Spend $404.3K (target $367K · +10%) · Shopify Rev $915.4K (target $831K · +10%) · Total Rev $981.3K (target $895.6K · +10%) · Blended Shopify ROAS 2.26x · Blended NC-ROAS ~1.61x.
+
+**Net profit STD:** Shopify $213.1K · w/ Amazon $264.1K (Day 5 Amazon profit not in screenshot — estimate ~$5K based on $7.8K rev).
+
+**Action consideration for Day 6 (Sat):**
+- Plan is $90K spend / $216K Shopify rev / 2.41x target
+- **Saturday has NO scheduled catalyst** (next send is Sunday — Email + PM SMS)
+- Day 4 just showed what catalyst-free days look like at this point — and now we have one less day of audience freshness
+- Honest call: **DO NOT push spend Saturday.** Hold to plan $90K or pull back to $80-85K. Save the budget for Sunday's catalyst day + Monday's close
+- The 2.41x ROAS target is aggressive for a catalyst-free day — expect 1.9-2.1x range, possibly worse if fatigue is real
+- Hard watch: if NC-ROAS softens below 1.4 by noon, cut spend immediately. We saw exactly this pattern on Thu
+- **Amazon check:** Investigate why Friday Amazon dropped to $7.8K. If it's a fixable issue (ad delivery, listing, inventory), fix it for the Saturday/Sunday/Monday close
+
 <!-- Template for next days:
 
 ### YYYY-MM-DD (DOW) — Day name

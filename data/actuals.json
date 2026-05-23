@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T08:00:00-04:00",
+  "last_updated": "2026-05-23T01:15:00-04:00",
   "primary_scenario": "moderate",
   "days": [
     {
@@ -113,6 +113,27 @@
       "variable_expenses": 40158,
       "custom_expenses": 5469,
       "note": "Day 4 (Thu) — catalyst-free day, softest of the sale. Spend $79.7K (+17% over $68K plan). Shopify rev $140.7K MISSED $158K target by 11%. ROAS 1.76x (target 2.32x) — below 1.8 hold zone, in pull-back territory. NC-ROAS 1.37 — below the 1.4 pull-back line. Net profit collapsed to $13.5K vs $42K Wed. Blended CM dropped to $3 (vs $12 Wed) — paid efficiency at the floor. Catalyst-free hypothesis played out."
+    },
+    {
+      "date": "2026-05-22",
+      "paid_spend": 77427,
+      "shopify_revenue": 183418,
+      "amazon_revenue": 7773,
+      "new_customer_revenue": 130735,
+      "returning_customer_revenue": 52683,
+      "total_sales": 179724,
+      "discounts": 139124,
+      "blended_cpa": 36.37,
+      "shopify_roas": 2.37,
+      "nc_roas": 1.69,
+      "mer_pct": 0.42,
+      "mer_plus_amazon_pct": 0.39,
+      "net_profit": 46910,
+      "net_profit_plus_amazon": 56311,
+      "net_margin_pct": 0.26,
+      "net_margin_plus_amazon_pct": 0.28,
+      "margin_per_nc_order": 11,
+      "note": "Day 5 (Fri) — strong recovery, catalyst stack delivered. Spend $77.4K (slightly under $81K plan). Shopify rev $183.4K vs $189K target (within 3%). ROAS 2.37x — beat 2.34x target. NC-ROAS 1.69 — well clear of pull-back line. Net profit $46.9K (+250% vs Thu). Net Profit +Amazon $56.3K. Margin/NC $11 — back to Day 1 level. Email + AM SMS catalyst stack pulled efficiency back. Amazon soft at $7.8K (vs $14K Thu)."
     }
   ]
 }
