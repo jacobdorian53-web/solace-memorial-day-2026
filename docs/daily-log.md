@@ -189,42 +189,40 @@ Dashboard scaffolded and pushed. Targets locked from Moderate plan ($650K spend 
 - Hard watch: if NC-ROAS softens below 1.4 by noon, cut spend immediately. We saw exactly this pattern on Thu
 - **Amazon check:** Investigate why Friday Amazon dropped to $7.8K. If it's a fixable issue (ad delivery, listing, inventory), fix it for the Saturday/Sunday/Monday close
 
-### 2026-05-23 (Sat) — Day 6, PARTIAL as of 6:43pm
-- **Spend (so far):** $78,822 (target $90K) — **already at full-day Thu/Fri levels with 5+ hours remaining**
-- **Shopify Rev (so far):** $150,551 (target $216K full day)
-- **Amazon Rev (so far):** $3,469 (very weak — second day in a row Amazon underperforming)
-- **Total Rev (so far):** $154,020
-- **Shopify ROAS:** 1.91x (target 2.41x) — **in pull-back zone**
-- **NC-ROAS:** 1.49 (just above 1.4 floor — softening)
-- **MER:** 52% Shopify · 48% +Amazon
-- **Blended CPA:** $44.08 · **NCPA:** $56.00
-- **Net Profit (Shopify):** $24,778 · **+Amazon:** $33,048
-- **Net Margin:** 16% Shopify · 20% +Amazon
-- **Margin per NC Order:** $4 — **back near Day 4 floor ($3)**
-- **Blended CM:** $5 (vs $14 Fri) — paid efficiency compressed again
-- **Orders:** 1,809 (1,793 paid)
-- **Units sold:** 6,350
-- **AOV:** $72 · **True AOV:** $72 · **NC-AOV:** $83
-- **New customer %:** 78% (highest of sale — paid carrying load with no email/SMS lift)
-- **Discounts:** $109,386 · **Returns:** $90 (likely attribution lag)
-- **Custom Expenses:** $5,430
+### 2026-05-23 (Sat) — Day 6, full close
+- **Spend:** $102,754 (target $90K) — **+$12.8K / +14% OVER plan**
+- **Shopify Rev:** $198,707 (target $216K) — **−$17.3K / −8%**
+- **Amazon Rev:** $23,800 (target $13.5K) — **+$10.3K / +76% — BIGGEST Amazon day of sale**
+- **Total Rev:** $222,507 (target $229.5K) — **within 3%**
+- **Shopify ROAS:** 1.93x (target 2.41x) — **−0.48x below target**
+- **NC-ROAS:** 1.55 (catalyst-free, below 1.6+ healthy zone)
+- **MER:** 52% Shopify · 47% +Amazon
+- **Blended CPA:** $43.43 · **NCPA:** $53.80
+- **Net Profit (Shopify):** $35,402 · **+Amazon:** $46,854
+- **Net Margin:** 18% Shopify · 21% +Amazon
+- **Margin per NC Order:** $6 (vs $4 partial · vs $16 Sun)
+- **Blended CM:** $6 — paid efficiency compressed all day
+- **Amazon Profit:** $11,452 (Amazon carrying contribution)
+- **Orders:** 2,384 (2,366 paid · 1,910 new customer orders)
+- **NC-AOV:** $84 · **Returning customer %:** 20% (lowest of sale)
+- **Conversion Rate:** 1.99% · **Frequency:** 0.99 · **RPS:** $1.76
+- **Shipping + COGS per order:** $16 · **Variable Expenses Per Order:** $23
+- **Variable Expenses:** $56,020 · **Custom Expenses:** $5,464
 
-**Read:** Catalyst-free playbook exactly as predicted. With no email send today (next is Sunday), the day is performing right at Thursday's pattern — ROAS in the 1.9x range, NC-ROAS hovering at the 1.4-1.5 floor, margin/NC at the $3-5 acquisition-cost zone. Day 4 closed at 1.76x ROAS; today is tracking ~1.85-1.95x at close.
+**Read:** Catalyst-free day where team pushed past plan into softening efficiency. Spent $24K MORE after the 6:43pm partial check ($78.8K → $102.8K) — exactly the back-half overspend scenario flagged at the time ("anything spent after 7pm at the current efficiency curve will erode the margin Friday banked"). The added spend pulled additional Shopify rev ($150K → $198K) but at deteriorating efficiency — back-half ROAS was likely 1.6-1.7x.
 
-**The concern:** Spend is already at $78.8K with 5+ hours of selling left. If the team pushes to full $90K plan, the back-half ROAS will likely be even softer (the most efficient impressions have been bought already). Closing ROAS could land 1.85-1.95x and margin/NC could compress further to $3-4.
+**The Amazon save:** $23.8K Amazon was the single biggest Amazon day of the sale — that rescued the day's profitability. Without Amazon's $11.4K profit contribution, this day would have been worse than Thursday on net profit. Whatever was wrong with Amazon Thu-Fri-Sat-AM appears to have resolved by Sat evening.
 
-**Projected close (if team holds to $90K spend):** Shopify rev $175-195K · Total Rev $180-200K · Net profit $25-35K (~half of Friday's $46K despite +15% more spend).
+**The cost:** Net profit $46.9K vs Sunday's $83.8K on roughly the same spend window. The same ~$100K spent on Sunday returned 79% more profit. That's the price of pushing into a catalyst-free day.
 
-**Projected close (if team pulls back to ~$85K spend):** Shopify rev $165-180K · Net profit $30-40K (more efficient given paid efficiency is compressing).
+**Sale-to-date through Day 6:** Spend $508.3K · Shopify Rev $1,114.1K · Amazon $91.0K · Total Rev $1,205.1K · Net Profit +Amazon ~$284.5K · Cumulative Shopify ROAS 2.19x.
 
-**Amazon issue continues:** $3.5K at 6:43pm is on pace for ~$4-5K full day — vs Friday's revised $16.4K. Two days in a row of weak Amazon. Worth checking if ads paused, listing dropped, or inventory issue.
+**Cumulative beat vs plan through Day 6:**
+- Spend: +$11K over $497K plan (+2%)
+- Shopify Rev: +$73K over $1,041K plan (+7%)
+- Total Rev: +$78K over $1,127K plan (+7%)
 
-**Sale-to-date through Day 5 close + Sat partial:** Spend $484.4K · Shopify Rev $1,065.9K · Cumulative Shopify ROAS dropping to ~2.20x. The +10% banked beat from earlier is now down to ~+2%.
-
-**Action consideration for end of Day 6 + Day 7 (Sun):**
-- **For Saturday close:** Pull spend back if possible. Anything spent after 7pm at the current efficiency curve will erode the margin Friday banked. Save dollars for Sunday's catalyst day.
-- **Sunday plan:** $97K spend / $239K Shopify rev / 2.46x target. Sunday has Email + PM SMS catalyst — repeat of the Day 5 catalyst-day playbook. Should support stronger ROAS (2.2-2.5x range)
-- **Critical:** The +10% banked headroom from Days 1-3 is essentially gone. Sunday + Monday need to deliver clean to hit the moderate plan. No more catalyst-free overspend days.
+Banked beat held better than projected at the 6:43pm read — Amazon's late surge ($23.8K) added $10K of unplanned revenue.
 
 ### 2026-05-24 (Sun) — Day 7, full close — BLOWOUT
 - **Spend:** $87,339 (target $97K) — **−$9.7K / −10% UNDER plan**
@@ -257,7 +255,7 @@ Dashboard scaffolded and pushed. Targets locked from Moderate plan ($650K spend 
 
 **The recovery:** After Saturday's struggle, Sunday recovered everything. Margin/NC went $4 → $16 (+300%). Blended CM went $5 → $19 (+280%). Net profit went $33K → $83.8K (+154%).
 
-**Sale-to-date through Day 7:** Spend $571.7K · Shopify Rev $1,298.1K · Amazon $94.4K · Total Rev $1,392.5K · Cumulative Shopify ROAS 2.27x · Net Profit +Amazon $380K+.
+**Sale-to-date through Day 7:** Spend $595.6K · Shopify Rev $1,346.2K · Amazon $114.7K · Total Rev $1,461.0K · Cumulative Shopify ROAS 2.26x · Net Profit +Amazon ~$368K.
 
 **Action consideration for Day 8 (Mon · Memorial Day · sale close):**
 - Plan is $103K spend / $267K Shopify rev / 2.59x target
