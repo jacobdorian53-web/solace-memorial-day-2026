@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T19:50:00-04:00",
+  "last_updated": "2026-05-25T09:45:00-04:00",
   "primary_scenario": "moderate",
   "days": [
     {
@@ -186,6 +186,41 @@
       "margin_per_nc_order": 4,
       "blended_cm": 5,
       "note": "Day 6 (Sat) — PARTIAL as of 6:43pm. Spend pacing $78.8K (already at full-day Thu/Fri spend levels). Shopify rev $150.6K. ROAS 1.91x, NC-ROAS 1.49 — softening as expected for catalyst-free day. Margin/NC $4 · Blended CM $5 — back near Day 4 floor. 78% new customers (highest of sale). Amazon very weak at $3.5K — second day in a row Amazon underperforming. Day expected to close around $185-200K Shopify rev / 1.9-2.0x ROAS."
+    },
+    {
+      "date": "2026-05-24",
+      "paid_spend": 87339,
+      "shopify_revenue": 232077,
+      "amazon_revenue": 16412,
+      "new_customer_revenue": 164475,
+      "returning_customer_revenue": 67602,
+      "returning_customer_pct": 0.29,
+      "orders": 2693,
+      "orders_paid": 2642,
+      "new_customer_orders": 1911,
+      "nc_aov": 86,
+      "returns": 2013,
+      "returns_pct": 0.009,
+      "taxes": 14876,
+      "frequency": 0.98,
+      "custom_expense_ad_spend": 1079,
+      "custom_expenses": 5444,
+      "variable_expenses": 64598,
+      "variable_expenses_per_order": 24,
+      "blended_cpa": 33.06,
+      "ncpa": 45.70,
+      "shopify_roas": 2.66,
+      "nc_roas": 1.88,
+      "mer_pct": 0.38,
+      "mer_plus_amazon_pct": 0.35,
+      "net_profit": 73600,
+      "net_profit_plus_amazon": 83806,
+      "net_margin_pct": 0.32,
+      "net_margin_plus_amazon_pct": 0.33,
+      "margin_per_nc_order": 16,
+      "blended_cm": 19,
+      "amazon_profit": 10206,
+      "note": "Day 7 (Sun) — BLOWOUT. Catalyst stack delivered the best day of the sale. Spend $87.3K (under $97K plan). Shopify rev $232.1K (target $239K · within 3%). ROAS 2.66x — best of sale. NC-ROAS 1.88 — best since Day 1. Net Profit $73.6K (Shopify) · $83.8K +Amazon — best of sale by a wide margin. Margin/NC $16 · Blended CM $19 — sale highs. 2,693 orders · 1,911 new customer orders · NC-AOV $86. Amazon recovered to $16.4K. Email + PM SMS catalyst combo crushed it."
     }
   ]
 }

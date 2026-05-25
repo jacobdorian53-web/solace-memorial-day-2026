@@ -226,6 +226,48 @@ Dashboard scaffolded and pushed. Targets locked from Moderate plan ($650K spend 
 - **Sunday plan:** $97K spend / $239K Shopify rev / 2.46x target. Sunday has Email + PM SMS catalyst — repeat of the Day 5 catalyst-day playbook. Should support stronger ROAS (2.2-2.5x range)
 - **Critical:** The +10% banked headroom from Days 1-3 is essentially gone. Sunday + Monday need to deliver clean to hit the moderate plan. No more catalyst-free overspend days.
 
+### 2026-05-24 (Sun) — Day 7, full close — BLOWOUT
+- **Spend:** $87,339 (target $97K) — **−$9.7K / −10% UNDER plan**
+- **Shopify Rev:** $232,077 (target $239K) — **within 3% of target**
+- **Amazon Rev:** $16,412 (target $20K) — **−$3.6K but recovered from Sat lows**
+- **Total Rev:** $248,489 (target $259K) — **−4% / within range**
+- **Shopify ROAS:** 2.66x (target 2.46x) — **+0.20x BEAT · best of sale**
+- **NC-ROAS:** 1.88 (vs 1.69 Fri) — **best since Day 1 (1.90)**
+- **MER:** 38% Shopify · 35% +Amazon
+- **Blended CPA:** $33.06 · **NCPA:** $45.70 (lowest of sale)
+- **Net Profit (Shopify):** $73,600 — **best of sale by 60%+**
+- **Net Profit + Amazon:** $83,806 — **best of sale**
+- **Net Margin:** 32% Shopify · 33% +Amazon — **best of sale**
+- **Margin per NC Order:** $16 (vs $10 Fri, $4 Sat, $17 Day 1) — **sale-high zone**
+- **Blended CM:** $19 (vs $14 Fri, $5 Sat) — **sale high**
+- **Amazon Profit:** $10,206
+- **New Customer Revenue:** $164,475
+- **Returning Customer Revenue:** $67,602
+- **Orders:** 2,693 (2,642 paid · 1,911 new customer orders)
+- **Returning customer %:** 29% · **NC-AOV:** $86
+- **Variable Expenses:** $64,598 · **Per Order:** $24
+- **Custom Expenses:** $5,444
+- **Returns:** $2,013 (1%)
+- **Taxes:** $14,876
+- **Frequency:** 0.98
+
+**Read:** Best day of the sale on every meaningful metric. Catalyst stack (Email + PM SMS) delivered the cleanest day — ROAS 2.66x, NC-ROAS 1.88, margin/NC $16, Blended CM $19. Net Profit $73.6K Shopify · $83.8K +Amazon — more than 60% above any previous day of the sale. The team also spent UNDER plan ($87K vs $97K target) — disciplined deployment, not chasing volume, let efficiency carry it.
+
+**The pattern this confirms:** Catalyst days are where this sale lives. Day 1 (Mon, launch day catalyst): $228K Shopify rev, 2.85x ROAS. Day 5 (Fri catalyst): $183K, 2.33x. Day 7 (Sun catalyst): $232K, 2.66x — the second-best catalyst day in absolute dollars. Sunday took the playbook of "spend efficiently into the catalyst lift" and executed it cleanly.
+
+**The recovery:** After Saturday's struggle, Sunday recovered everything. Margin/NC went $4 → $16 (+300%). Blended CM went $5 → $19 (+280%). Net profit went $33K → $83.8K (+154%).
+
+**Sale-to-date through Day 7:** Spend $571.7K · Shopify Rev $1,298.1K · Amazon $94.4K · Total Rev $1,392.5K · Cumulative Shopify ROAS 2.27x · Net Profit +Amazon $380K+.
+
+**Action consideration for Day 8 (Mon · Memorial Day · sale close):**
+- Plan is $103K spend / $267K Shopify rev / 2.59x target
+- **Today's catalyst stack is heaviest of sale:** Email (Memorial Day close, AM) + SMS (AM reminder) + SMS (PM "last hours")
+- Sunday at 2.66x ROAS / $73.6K net profit just gave a roadmap for what Memorial Day with three sends should produce
+- **Push case:** Target $110-115K spend at expected 2.4-2.6x ROAS → $264-299K rev. Defensible given Sunday's lift held
+- **Hold case:** Stay at $100-105K plan, let catalyst do the lifting at higher efficiency. Sunday proved efficient deployment > volume push
+- **Front-load:** $50-60K by 2pm · $30-35K from 2-8pm · $15-20K from 8pm-close. Last-day Memorial Day shoppers convert heavily by 8-9pm ET, drop-off after
+- **Don't go over $115K.** Last day always has aggressive late-evening fall-off; spend after 9pm earns 1.2-1.5x ROAS regardless of catalyst
+
 <!-- Template for next days:
 
 ### YYYY-MM-DD (DOW) — Day name
