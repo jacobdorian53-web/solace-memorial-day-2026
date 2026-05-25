@@ -268,6 +268,36 @@ Banked beat held better than projected at the 6:43pm read — Amazon's late surg
 - **Front-load:** $50-60K by 2pm · $30-35K from 2-8pm · $15-20K from 8pm-close. Last-day Memorial Day shoppers convert heavily by 8-9pm ET, drop-off after
 - **Don't go over $115K.** Last day always has aggressive late-evening fall-off; spend after 9pm earns 1.2-1.5x ROAS regardless of catalyst
 
+### 2026-05-25 (Mon) — Day 8 · Memorial Day · partial @ 1:24pm EDT
+- **Spend:** $48,627 (plan $103K · push case $113K) — **47% of plan deployed at midday**
+- **Shopify Rev:** $123,408 (target $267K · 46% pacing)
+- **Shopify ROAS:** 2.54x (target 2.59x) — **essentially at target**
+- **NC-ROAS:** 1.92 — **best NC-ROAS partial of the sale**
+- **MER:** 39%
+- **Net Profit (Shopify):** $35,982 — already past Day 6's full-day total
+- **Orders:** 1,380 (1,377 paid · 1,051 new customer)
+- **AOV:** $78 (sale-high partial)
+- **New Customer %:** 76% (sale-high) · Returning: 24%
+- **New Customer Rev:** $93,386 · Returning: $30,022
+- **Total Sales:** $123,370 · Gross Sales: $205,290
+- **Units sold:** 5,422
+- **Returns:** $33 · Taxes: $8,009
+
+**Read at midday:** AM catalyst (Memorial Day close email + AM SMS) is delivering exactly as Sunday's roadmap predicted. ROAS 2.54x at the same pacing as Sunday at this time. NC-ROAS 1.92 is the cleanest NC efficiency of the sale partial-to-partial. 76% NC mix says the email is pulling fresh acquisition — not just reactivation. $78 AOV is a sale partial-high (Sunday came in at $73 AOV final).
+
+**Pacing read:**
+- Spend pacing 47% by 1:24pm — slightly ahead of Sunday's similar window
+- Revenue pacing 53% by 1:24pm — running hotter than spend, which is what you want
+- At current efficiency trajectory, full-day could land $245-275K Shopify rev on $100-110K spend at 2.4-2.6x ROAS
+- PM SMS ("last hours") still to come — typically drives the 6-9pm peak on close days
+
+**Action consideration for back-half of day:**
+- Hold the $103-110K spend range. Don't push past $115K — Sunday proved efficient deployment beats volume on catalyst days
+- 2-8pm window: $35-40K · Reserve $15-20K for 8pm-close
+- Watch the 6pm SMS lift — if NC-ROAS holds 1.7+ post-SMS, let the algorithm spend into it
+- If late-day ROAS drops below 1.8x by 8pm, cut Meta CBO budgets 20% to protect margin
+- Hard floor: don't go below 1.5x NC-ROAS on incremental spend — that's the breakeven line on first-order unit econ
+
 <!-- Template for next days:
 
 ### YYYY-MM-DD (DOW) — Day name

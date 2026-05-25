@@ -220,6 +220,31 @@
       "blended_cm": 19,
       "amazon_profit": 10206,
       "note": "Day 7 (Sun) — BLOWOUT. Catalyst stack delivered the best day of the sale. Spend $87.3K (under $97K plan). Shopify rev $232.1K (target $239K · within 3%). ROAS 2.66x — best of sale. NC-ROAS 1.88 — best since Day 1. Net Profit $73.6K (Shopify) · $83.8K +Amazon — best of sale by a wide margin. Margin/NC $16 · Blended CM $19 — sale highs. 2,693 orders · 1,911 new customer orders · NC-AOV $86. Amazon recovered to $16.4K. Email + PM SMS catalyst combo crushed it."
+    },
+    {
+      "date": "2026-05-25",
+      "partial": true,
+      "as_of": "2026-05-25T13:24:00-04:00",
+      "paid_spend": 48627,
+      "shopify_revenue": 123408,
+      "new_customer_revenue": 93386,
+      "returning_customer_revenue": 30022,
+      "new_customer_pct": 0.76,
+      "returning_customer_pct": 0.24,
+      "orders": 1380,
+      "orders_paid": 1377,
+      "new_customer_orders": 1051,
+      "units_sold": 5422,
+      "aov": 78,
+      "returns": 33,
+      "taxes": 8009,
+      "total_sales": 123370,
+      "gross_sales": 205290,
+      "shopify_roas": 2.54,
+      "nc_roas": 1.92,
+      "mer_pct": 0.39,
+      "net_profit": 35982,
+      "note": "Day 8 (Mon · Memorial Day · sale close) — PARTIAL as of 1:24pm EDT. Spend $48.6K (43% of $113K push case · 47% of $103K plan). Shopify rev $123.4K. ROAS 2.54x (target 2.59x — at target). NC-ROAS 1.92 — best NC-ROAS of sale so far. MER 39%. Net profit $35.9K already. 1,380 orders · 1,051 new customer · 76% NC mix (highest of sale). AOV $78. AM catalyst (email + AM SMS) clearly working — pacing for a strong close. PM SMS still to come."
     }
   ]
 }
