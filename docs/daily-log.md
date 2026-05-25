@@ -255,7 +255,9 @@ Banked beat held better than projected at the 6:43pm read — Amazon's late surg
 
 **The recovery:** After Saturday's struggle, Sunday recovered everything. Margin/NC went $4 → $16 (+300%). Blended CM went $5 → $19 (+280%). Net profit went $33K → $83.8K (+154%).
 
-**Sale-to-date through Day 7:** Spend $595.6K · Shopify Rev $1,346.2K · Amazon $114.7K · Total Rev $1,461.0K · Cumulative Shopify ROAS 2.26x · Net Profit +Amazon ~$368K.
+**Sale-to-date through Day 7 (reconciled to Triple Whale aggregate May 18-24):** Spend **$596.1K** · Shopify Rev **$1,346.2K** · Amazon Rev **$143.9K** · Total Rev **$1,490.1K** · Cumulative Shopify ROAS 2.26x · Net Profit **$320.4K** Shopify · **$393.4K +Amazon**.
+
+**Reconciliation note:** My per-day Amazon revenue entries summed to ~$114.7K through Day 7, but Triple Whale's aggregate (May 18-24) shows $143.9K. Net profit and Shopify revenue reconcile within $500 against TW aggregate — the discrepancy is on Amazon gross revenue alone, likely from Days 4-6 attribution settling higher than the daily reads captured. The reconciled totals above use TW aggregate as the truth source.
 
 **Action consideration for Day 8 (Mon · Memorial Day · sale close):**
 - Plan is $103K spend / $267K Shopify rev / 2.59x target
