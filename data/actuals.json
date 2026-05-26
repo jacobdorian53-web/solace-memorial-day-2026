@@ -225,12 +225,13 @@
       "date": "2026-05-25",
       "paid_spend": 114247,
       "shopify_revenue": 342736,
-      "amazon_revenue": 29153,
+      "amazon_revenue": 18917,
+      "total_revenue": 361653,
       "shopify_roas": 3.00,
       "nc_roas": 2.15,
       "mer_pct": 0.33,
-      "mer_plus_amazon_pct": 0.31,
-      "note": "Day 8 (Mon · Memorial Day · sale close) — RECONCILED to Triple Whale May 18-25 final. Spend $114.2K (pushed to $115K cap). Shopify rev $342.7K — single biggest day of the sale and entire year. Amazon $29.2K. Total rev $371.9K. ROAS implied 3.00x · NC-ROAS 2.15 (per 8pm read held). The day kept climbing past the 8pm 2.91x read — back-half of evening continued delivering. Catalyst stack (Email + AM SMS + PM SMS) executed as designed; team pushed spend to the cap into climbing efficiency rather than dilating it."
+      "mer_plus_amazon_pct": 0.32,
+      "note": "Day 8 (Mon · Memorial Day · sale close) — RECONCILED. Spend $114.2K (pushed to $115K cap). Total rev $361,653 (Shopify $342,736 + Amazon $18,917). Single biggest day of the sale and entire year. ROAS 3.00x · NC-ROAS 2.15. The day kept climbing past the 8pm 2.91x read — back-half continued delivering. Catalyst stack (Email + AM SMS + PM SMS) executed; team pushed spend to the cap into climbing efficiency rather than dilating it."
     }
   ]
 }

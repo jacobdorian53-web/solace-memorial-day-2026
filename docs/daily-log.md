@@ -268,14 +268,14 @@ Banked beat held better than projected at the 6:43pm read — Amazon's late surg
 - **Front-load:** $50-60K by 2pm · $30-35K from 2-8pm · $15-20K from 8pm-close. Last-day Memorial Day shoppers convert heavily by 8-9pm ET, drop-off after
 - **Don't go over $115K.** Last day always has aggressive late-evening fall-off; spend after 9pm earns 1.2-1.5x ROAS regardless of catalyst
 
-### 2026-05-25 (Mon) — Day 8 · Memorial Day · FINAL CLOSE (reconciled to TW May 18-25)
+### 2026-05-25 (Mon) — Day 8 · Memorial Day · FINAL CLOSE (reconciled)
 - **Spend:** $114,247 (plan $103K · push case $113K · hard cap $115K) — **pushed right to the cap**
 - **Shopify Rev:** **$342,736** (target $267K · **+$75.7K / +28% beat**) — **biggest single day of the sale and year**
-- **Amazon Rev:** $29,153 — biggest Amazon day of sale
-- **Total Rev:** **$371,889**
+- **Amazon Rev:** $18,917
+- **Total Rev:** **$361,653**
 - **Shopify ROAS:** **3.00x** (target 2.59x · +0.41x over) — **sale's only 3.0+ day**
 - **The climb across the day:** 2.54x @ 1:24pm → 2.75x @ 4:11pm → 2.91x @ 8:01pm → **3.00x final**
-- **MER:** 33% Shopify · 31% +Amazon — **most efficient day of sale**
+- **MER:** 33% Shopify · 32% +Amazon — **most efficient day of sale**
 
 **Read:** The day kept climbing past 8pm. Last 4 hours (8pm-close): $28.1K spent → $91.8K Shopify rev → **window ROAS 3.27x**. The team pushed spend to the $115K cap into climbing efficiency rather than dilating it — exactly the right play given the 3.4x back-half windows had been holding. Memorial Day delivered the biggest single-day Shopify number of the year, the biggest Amazon day, the only 3.0x+ ROAS day, and on the highest spend day. Catalyst stack (Email + AM SMS + PM SMS) was the heaviest of the sale and produced the cleanest day.
 
