@@ -268,42 +268,44 @@ Banked beat held better than projected at the 6:43pm read — Amazon's late surg
 - **Front-load:** $50-60K by 2pm · $30-35K from 2-8pm · $15-20K from 8pm-close. Last-day Memorial Day shoppers convert heavily by 8-9pm ET, drop-off after
 - **Don't go over $115K.** Last day always has aggressive late-evening fall-off; spend after 9pm earns 1.2-1.5x ROAS regardless of catalyst
 
-### 2026-05-25 (Mon) — Day 8 · Memorial Day · partial @ 4:11pm EDT
-- **Spend:** $64,048 (plan $103K) — **62% of plan deployed**
-- **Shopify Rev:** $176,121 (target $267K · 66% pacing)
-- **Amazon Rev:** $2,003 (early read — typically settles much higher post-attribution)
-- **Total Rev:** $187,502
-- **Shopify ROAS:** 2.75x (target 2.59x · climbed from 2.54x @ 1:24pm) — **best partial of sale**
-- **NC-ROAS:** 2.05 (climbed from 1.92) — **sale-high · best NC efficiency of the sale**
-- **MER:** 36% · MER +Amazon: 35%
-- **Blended CPA:** $32.48 · **NCPA:** $43.20 (lowest of sale)
-- **Net Profit (Shopify):** $58,560 — already past Saturday's full-day total
-- **Net Profit + Amazon:** $63,681
-- **Net Margin:** 33% Shopify · 34% +Amazon — **best of sale partial**
-- **Margin per NC Order:** $21 — **sale high · best NC unit econ of sale**
-- **Orders:** 1,976 (1,972 paid · 1,484 new customer)
+### 2026-05-25 (Mon) — Day 8 · Memorial Day · partial @ 8:01pm EDT
+- **Spend:** $86,140 (plan $103K) — **84% of plan deployed**
+- **Shopify Rev:** $250,938 (target $267K · **94% of target with 4 hours to go**)
+- **Amazon Rev:** $5,204 (early read · will settle higher post-attribution)
+- **Total Rev:** $267,677
+- **Shopify ROAS:** **2.91x** (target 2.59x) — **+0.32x over target · climbed all day (2.54 → 2.75 → 2.91)**
+- **NC-ROAS:** **2.15** — **sale high by a country mile** (prev best 2.05 @ 4pm, prev full-day best 1.90 Day 1)
+- **MER:** 34% Shopify · 33% +Amazon
+- **Blended CPA:** $30.57 · **NCPA:** $40.80 — **lowest of sale**
+- **Net Profit (Shopify):** **$90,692** — **already 23% above Sunday's full-day total**
+- **Net Profit + Amazon:** **$98,225** — **+17% above Sunday's $83.8K · best day of sale by wide margin**
+- **Net Margin:** 36% Shopify · 37% +Amazon — **sale high**
+- **Margin per NC Order:** $22 (vs $21 @ 4pm · $17 Day 1 launch · $16 Sun) — **sale high**
+- **Blended CM:** $22 — **sale high**
+- **Amazon Profit:** $7,533 (partial — Amazon attribution still settling)
+- **Orders:** 2,824 (2,818 paid · 2,110 new customer) — **most NC orders of any day**
 - **AOV:** $77 · **True AOV:** $77
 - **New Customer %:** 75% · Returning: 25%
-- **New Customer Rev:** $131,405 · Returning: $44,715
-- **Units sold:** 7,711
-- **Total Sales:** $176,083 · **Gross Sales:** $292,768
-- **Returns:** $26 · Taxes: $11,365
+- **New Customer Rev:** $185,616 · Returning: $65,322
+- **Units sold:** 10,927 (~3.9 units/order — B2G2 still pulling baskets)
+- **Total Sales:** $250,899 · **Gross Sales:** $414,988
+- **Returns:** $26 · Taxes: $16,261
 
-**Read at 4:11pm:** Efficiency is climbing through the day instead of dilating. ROAS 2.54 → 2.75 (+0.21) and NC-ROAS 1.92 → 2.05 (+0.13) from 1:24pm to 4:11pm. Margin/NC at $21 is the highest of the entire sale — even higher than Day 1's $17 launch. The afternoon is delivering BETTER unit economics than the morning, which is the opposite of the usual pattern and a clear signal that paid is catching demand at the close. Net profit $58.6K already past Saturday's full day.
+**Read at 8:01pm:** This is the best day of the sale and it's not close. ROAS has climbed every read — 2.54 → 2.75 → 2.91 — which is the exact opposite of normal close-day dilution. NC-ROAS at 2.15 is a sale outlier (best previous: 2.05). Net Profit +Amazon at $98.2K already beats Sunday's full-day $83.8K with 4 hours of trading left. Margin/NC $22 is a new sale high — better than the Day 1 launch fresh-audience number.
 
 **Pacing read:**
-- Spend pacing 62% by 4:11pm · Revenue pacing 66% — efficiency still ahead of spend curve
-- Between 1:24pm and 4:11pm: $15.4K spent → $52.7K Shopify rev → window ROAS **3.43x** (afternoon delivering far better than AM curve)
-- At current trajectory, full-day projection revising UP: **$255-285K Shopify rev on $95-105K spend at 2.5-2.7x ROAS**
-- Net profit projection: **$85-95K Shopify**, potentially $95-105K +Amazon — would be best day of sale by 15-25%
-- PM SMS ("last hours") still to come for 6-9pm peak window
+- 94% of revenue target hit by 8:01pm · 84% of spend deployed — efficiency continuing to outpace spend curve
+- Between 4:11pm and 8:01pm: $22.1K spent → $74.8K Shopify rev → **window ROAS 3.39x** (PM SMS catalyst window delivered as predicted)
+- Three-window pattern: AM ~2.54x · midday 3.43x · PM SMS 3.39x — paid efficiency has been above 3.0x for the back half of the day
+- Full-day projection narrowed: **$280-305K Shopify rev on $98-105K spend at 2.7-2.9x ROAS · Net Profit $100-110K Shopify · $108-118K +Amazon**
+- This is the kind of day that makes a sale's quarter
 
-**Action consideration for back-half of day:**
-- The 3.43x window ROAS between 1:24-4:11pm says **keep spending** — don't pull back on this trajectory
-- Reserve case: $30-35K from now to close (4pm-midnight). $20-25K from 4-9pm window into PM SMS. $5-10K from 9pm-close
-- If NC-ROAS holds 1.8+ post-PM-SMS, let algorithm spend into it through 9pm
-- Hard pullback: if NC-ROAS drops below 1.5x by 8pm, cut Meta CBO 25%
-- After 10pm: cap incremental at $5K — late-night spend earns 1.2-1.4x regardless of catalyst
+**Action consideration for back 4 hours (8pm-close):**
+- $17K headroom to plan ($103K - $86K) · $29K headroom to the $115K hard cap
+- Continue spending at current efficiency — the 3.4x back-half window says paid is still catching demand
+- 8-10pm: deploy $10-15K · 10-11:30pm: $3-5K · last 30min: only if Meta CBO is still running 2.5x+ in-platform
+- **Hard floor reminder:** don't cross $115K total. Late-night ROAS will fall regardless of how strong the day has been
+- The win is already locked — back half is about capturing incremental at >2.0x without giving the sale-high margin/NC back to inefficient inventory
 
 <!-- Template for next days:
 
