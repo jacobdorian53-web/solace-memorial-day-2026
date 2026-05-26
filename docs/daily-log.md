@@ -268,6 +268,25 @@ Banked beat held better than projected at the 6:43pm read — Amazon's late surg
 - **Front-load:** $50-60K by 2pm · $30-35K from 2-8pm · $15-20K from 8pm-close. Last-day Memorial Day shoppers convert heavily by 8-9pm ET, drop-off after
 - **Don't go over $115K.** Last day always has aggressive late-evening fall-off; spend after 9pm earns 1.2-1.5x ROAS regardless of catalyst
 
+### 2026-05-25 (Mon) — Day 8 · Memorial Day · FINAL CLOSE (reconciled to TW May 18-25)
+- **Spend:** $114,247 (plan $103K · push case $113K · hard cap $115K) — **pushed right to the cap**
+- **Shopify Rev:** **$342,736** (target $267K · **+$75.7K / +28% beat**) — **biggest single day of the sale and year**
+- **Amazon Rev:** $29,153 — biggest Amazon day of sale
+- **Total Rev:** **$371,889**
+- **Shopify ROAS:** **3.00x** (target 2.59x · +0.41x over) — **sale's only 3.0+ day**
+- **The climb across the day:** 2.54x @ 1:24pm → 2.75x @ 4:11pm → 2.91x @ 8:01pm → **3.00x final**
+- **MER:** 33% Shopify · 31% +Amazon — **most efficient day of sale**
+
+**Read:** The day kept climbing past 8pm. Last 4 hours (8pm-close): $28.1K spent → $91.8K Shopify rev → **window ROAS 3.27x**. The team pushed spend to the $115K cap into climbing efficiency rather than dilating it — exactly the right play given the 3.4x back-half windows had been holding. Memorial Day delivered the biggest single-day Shopify number of the year, the biggest Amazon day, the only 3.0x+ ROAS day, and on the highest spend day. Catalyst stack (Email + AM SMS + PM SMS) was the heaviest of the sale and produced the cleanest day.
+
+**Day 8 vs Sunday (the previous best):**
+- Spend: $114.2K vs $87.3K (+31%)
+- Shopify Rev: $342.7K vs $232.1K (**+48%**)
+- ROAS: 3.00x vs 2.66x (+0.34x)
+- The +31% spend pulled +48% revenue — incremental efficiency was extraordinary
+
+---
+
 ### 2026-05-25 (Mon) — Day 8 · Memorial Day · partial @ 8:01pm EDT
 - **Spend:** $86,140 (plan $103K) — **84% of plan deployed**
 - **Shopify Rev:** $250,938 (target $267K · **94% of target with 4 hours to go**)
@@ -306,6 +325,62 @@ Banked beat held better than projected at the 6:43pm read — Amazon's late surg
 - 8-10pm: deploy $10-15K · 10-11:30pm: $3-5K · last 30min: only if Meta CBO is still running 2.5x+ in-platform
 - **Hard floor reminder:** don't cross $115K total. Late-night ROAS will fall regardless of how strong the day has been
 - The win is already locked — back half is about capturing incremental at >2.0x without giving the sale-high margin/NC back to inefficient inventory
+
+---
+
+## Sale Final — Memorial Day 2026 (May 18-25, 8 days)
+
+**Reconciled to Triple Whale Mission Control final report.**
+
+### Top-line
+- **Total Revenue:** **$1,877,986** (target $1.512M · **+$366K / +24% beat**)
+- **Shopify Revenue:** **$1,694,708** (target $1.4M · **+$294.7K / +21% beat**)
+- **Amazon Revenue:** **$183,278** (target $112K · **+$71.3K / +64% beat**)
+- **Paid Spend:** **$709,910** (target $650K · +$60K / +9% over)
+- **Shopify MER:** **2.39x** (target 2.15x · +0.24x)
+- **Total MER (+Amazon):** **2.65x** (target 2.33x · +0.32x)
+
+### Channel Performance (final)
+| Channel | Spend | Revenue | ROAS | CPA |
+|---|---|---|---|---|
+| Meta | $552,790 | $1,254,332 | 2.27x | $37.93 |
+| Google | $90,129 | $439,266 | **4.87x** | $17.99 |
+| AppLovin | $43,015 | $203,903 | 4.74x | $19.53 |
+| TikTok | $9,594 | $49,041 | 5.11x | $15.68 |
+| Pinterest | $5,681 | $23,970 | 4.22x | $21.12 |
+
+### Order metrics
+- **Total Orders:** **20,558**
+- **AOV:** **$82.44**
+- **CVR:** **2.23%**
+- **Units per order:** **3.58** (B2G2 pulling baskets all the way through)
+
+### Daily Shopify revenue arc
+| Day | Date | Spend | Shopify Rev | ROAS | Notes |
+|---|---|---|---|---|---|
+| 1 | Mon 5/18 | $79.9K | $227.3K | 2.85x | Launch catalyst |
+| 2 | Tue 5/19 | $81.6K | $176.2K | 2.16x | Day-after softening |
+| 3 | Wed 5/20 | $85.7K | $187.8K | 2.19x | Catalyst-light |
+| 4 | Thu 5/21 | $79.7K | $140.7K | **1.76x** | **Softest day · no catalyst** |
+| 5 | Fri 5/22 | $78.7K | $183.4K | 2.33x | Catalyst recovery |
+| 6 | Sat 5/23 | $102.8K | $198.7K | 1.93x | Overspent catalyst-free |
+| 7 | Sun 5/24 | $87.3K | $232.1K | 2.66x | Catalyst, disciplined |
+| 8 | Mon 5/25 | **$114.2K** | **$342.7K** | **3.00x** | **Memorial Day blowout** |
+
+### The story of the sale
+**Catalyst days carried it.** Days 1, 5, 7, 8 (all with email + SMS sends) delivered 2.33x-3.00x Shopify ROAS. Catalyst-free days (3, 4, 6) delivered 1.76x-2.19x. The team learned this in real-time and the pattern reinforced through the week.
+
+**The bottom dropped, the top compounded.** Thursday (Day 4) was the only day below the 1.8x hold-zone floor — 1.76x ROAS, $13.5K net profit Shopify — confirming paid efficiency naturally tops at ~1.7x without owned-channel support. Memorial Day (Day 8) was the only day at 3.00x — confirming that with a fully-loaded catalyst stack and a fresh audience window, paid can pull at premium efficiency at scale.
+
+**Memorial Day did the heavy lifting.** Day 8 alone was 20% of total Shopify revenue ($342.7K of $1,694.7K). The 3.00x ROAS on $114K spend was the sale's only day at 3.0x+ and the single biggest revenue day of the year.
+
+**Google + AppLovin + TikTok over-indexed.** Non-Meta channels delivered 4.2-5.1x ROAS at small spend levels — these are scale-up candidates for the next sale window.
+
+**The plan vs reality:**
+- Plan: $650K spend / $1.4M Shopify / $112K Amazon / $1.512M total / 2.33x MER
+- Reality: $709.9K spend (+9%) / $1.695M Shopify (+21%) / $183.3K Amazon (+64%) / $1.878M total (+24%) / **2.65x MER (+0.32x)**
+
+The team beat plan on every meaningful line, and beat it on **efficiency** while overspending — which is the unusual outcome. Usually overspending dilates efficiency. Here, the catalyst stack + Memorial Day demand spike pulled the inverse.
 
 <!-- Template for next days:
 
