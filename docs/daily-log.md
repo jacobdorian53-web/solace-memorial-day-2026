@@ -330,15 +330,17 @@ Banked beat held better than projected at the 6:43pm read — Amazon's late surg
 
 ## Sale Final — Memorial Day 2026 (May 18-25, 8 days)
 
-**Reconciled to Triple Whale Mission Control final report.**
+**Reconciled to Triple Whale Mission Control final report.** All per-day numbers below are TW's settled values.
 
 ### Top-line
-- **Total Revenue:** **$1,877,986** (target $1.512M · **+$366K / +24% beat**)
-- **Shopify Revenue:** **$1,694,708** (target $1.4M · **+$294.7K / +21% beat**)
-- **Amazon Revenue:** **$183,278** (target $112K · **+$71.3K / +64% beat**)
-- **Paid Spend:** **$709,910** (target $650K · +$60K / +9% over)
-- **Shopify MER:** **2.39x** (target 2.15x · +0.24x)
-- **Total MER (+Amazon):** **2.65x** (target 2.33x · +0.32x)
+- **Total Revenue:** **$1,877,986** (Aggressive plan $1.73M · **+$148K / +8.6% beat**)
+- **Shopify Revenue:** **$1,694,708** (Aggressive plan $1.55M · **+$144.7K / +9.3% beat**)
+- **Amazon Revenue:** **$183,278** (Aggressive plan $180K · **+$3.3K / +1.8% beat**)
+- **Paid Spend:** **$709,910** (Aggressive plan $760K · **−$50.1K / −6.6% under**)
+- **Shopify MER:** **2.39x** (Aggressive plan 2.04x · **+17.1%**)
+- **Total MER (+Amazon):** **2.65x** (Aggressive plan 2.28x · **+16.2%**)
+
+> **Plan benchmark note:** TW dash compares against the **aggressive** scenario (which the team operated to). Against the original moderate plan ($650K spend / $1.4M Shopify / $1.562M total / 2.40x MER), final results were +$59.9K spend, +$294.7K Shopify, +$316.0K total, and +0.25x MER.
 
 ### Channel Performance (final)
 | Channel | Spend | Revenue | ROAS | CPA |
@@ -346,8 +348,13 @@ Banked beat held better than projected at the 6:43pm read — Amazon's late surg
 | Meta | $552,790 | $1,254,332 | 2.27x | $37.93 |
 | Google | $90,129 | $439,266 | **4.87x** | $17.99 |
 | AppLovin | $43,015 | $203,903 | 4.74x | $19.53 |
-| TikTok | $9,594 | $49,041 | 5.11x | $15.68 |
+| TikTok | $9,594 | $49,041 | **5.11x** | $15.68 |
 | Pinterest | $5,681 | $23,970 | 4.22x | $21.12 |
+
+- **Highest spend platform:** Meta ($552.8K · 78% of total spend)
+- **Strongest channel ROAS:** TikTok at 5.11x
+- **Most efficient CPA:** TikTok at $15.68
+- **Amazon share of total revenue:** 9.8%
 
 ### Order metrics
 - **Total Orders:** **20,558**
@@ -355,32 +362,36 @@ Banked beat held better than projected at the 6:43pm read — Amazon's late surg
 - **CVR:** **2.23%**
 - **Units per order:** **3.58** (B2G2 pulling baskets all the way through)
 
-### Daily Shopify revenue arc
-| Day | Date | Spend | Shopify Rev | ROAS | Notes |
-|---|---|---|---|---|---|
-| 1 | Mon 5/18 | $79.9K | $227.3K | 2.85x | Launch catalyst |
-| 2 | Tue 5/19 | $81.6K | $176.2K | 2.16x | Day-after softening |
-| 3 | Wed 5/20 | $85.7K | $187.8K | 2.19x | Catalyst-light |
-| 4 | Thu 5/21 | $79.7K | $140.7K | **1.76x** | **Softest day · no catalyst** |
-| 5 | Fri 5/22 | $78.7K | $183.4K | 2.33x | Catalyst recovery |
-| 6 | Sat 5/23 | $102.8K | $198.7K | 1.93x | Overspent catalyst-free |
-| 7 | Sun 5/24 | $87.3K | $232.1K | 2.66x | Catalyst, disciplined |
-| 8 | Mon 5/25 | **$114.2K** | **$342.7K** | **3.00x** | **Memorial Day blowout** |
+### Daily arc (TW reconciled)
+| # | Date | Spend | Shopify | Amazon | Total | Shopify MER | Total MER | CVR | AOV | Units/Ord |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Mon 5/18 | $79,969 | $228,554 | $25,679 | $254,232 | 2.86x | 3.18x | 2.58% | $81.51 | 3.59 |
+| 2 | Tue 5/19 | $81,749 | $177,082 | $24,103 | $201,185 | 2.17x | 2.46x | 2.14% | $78.01 | 3.53 |
+| 3 | Wed 5/20 | $85,904 | $188,501 | $23,504 | $212,005 | 2.19x | 2.47x | 1.78% | $79.27 | 3.60 |
+| 4 | Thu 5/21 | $79,800 | $141,370 | $21,199 | $162,569 | **1.77x** | 2.04x | 1.92% | $72.80 | 3.35 |
+| 5 | Fri 5/22 | $78,698 | $184,128 | $21,905 | $206,033 | 2.34x | 2.62x | 2.21% | $83.77 | 3.61 |
+| 6 | Sat 5/23 | $102,753 | $199,749 | $26,002 | $225,751 | 1.94x | 2.20x | 2.13% | $83.09 | 3.53 |
+| 7 | Sun 5/24 | $87,440 | $232,588 | $21,969 | $254,558 | 2.66x | 2.91x | 2.35% | $86.08 | 3.74 |
+| 8 | Mon 5/25 | **$113,598** | **$342,736** | $18,917 | **$361,653** | **3.02x** | **3.18x** | **2.63%** | **$88.79** | **3.89** |
+| **Total** | | **$709,910** | **$1,694,708** | **$183,278** | **$1,877,986** | **2.39x** | **2.65x** | **2.23%** | **$82.44** | **3.58** |
 
 ### The story of the sale
-**Catalyst days carried it.** Days 1, 5, 7, 8 (all with email + SMS sends) delivered 2.33x-3.00x Shopify ROAS. Catalyst-free days (3, 4, 6) delivered 1.76x-2.19x. The team learned this in real-time and the pattern reinforced through the week.
 
-**The bottom dropped, the top compounded.** Thursday (Day 4) was the only day below the 1.8x hold-zone floor — 1.76x ROAS, $13.5K net profit Shopify — confirming paid efficiency naturally tops at ~1.7x without owned-channel support. Memorial Day (Day 8) was the only day at 3.00x — confirming that with a fully-loaded catalyst stack and a fresh audience window, paid can pull at premium efficiency at scale.
+**Catalyst days carried it.** Days 1, 5, 7, 8 (all with email + SMS sends) delivered 2.34x-3.02x Shopify MER. Catalyst-free days (3, 4, 6) delivered 1.77x-2.19x. The team learned this in real-time and the pattern reinforced through the week.
 
-**Memorial Day did the heavy lifting.** Day 8 alone was 20% of total Shopify revenue ($342.7K of $1,694.7K). The 3.00x ROAS on $114K spend was the sale's only day at 3.0x+ and the single biggest revenue day of the year.
+**The bottom dropped, the top compounded.** Thursday (Day 4) was the only day below the 1.8x hold-zone floor — 1.77x MER, $13.5K net profit Shopify — confirming paid efficiency naturally tops at ~1.7x without owned-channel support. Memorial Day (Day 8) was the only day at 3.0x+ — confirming that with a fully-loaded catalyst stack and Memorial Day demand, paid can pull at premium efficiency at scale.
 
-**Google + AppLovin + TikTok over-indexed.** Non-Meta channels delivered 4.2-5.1x ROAS at small spend levels — these are scale-up candidates for the next sale window.
+**Memorial Day did the heavy lifting.** Day 8 alone delivered 20.2% of total Shopify revenue ($342.7K of $1,694.7K) and 19.3% of total revenue ($361.7K of $1,878.0K). The 3.02x Shopify MER on $113.6K spend was the sale's only 3.0x+ day and the single biggest revenue day of the year. Day 8 also posted the sale's best CVR (2.63%), AOV ($88.79), and units/order (3.89) — every customer metric peaked on the close.
 
-**The plan vs reality:**
-- Plan: $650K spend / $1.4M Shopify / $112K Amazon / $1.512M total / 2.33x MER
-- Reality: $709.9K spend (+9%) / $1.695M Shopify (+21%) / $183.3K Amazon (+64%) / $1.878M total (+24%) / **2.65x MER (+0.32x)**
+**Google + AppLovin + TikTok over-indexed.** Non-Meta channels delivered 4.2-5.1x ROAS at small spend levels (combined $148.4K spend → $716.2K revenue at 4.83x blended). These are clear scale-up candidates for the next sale window. Meta did the heavy volume at 2.27x — within its normal sale-window band but the long tail of the spend distribution.
 
-The team beat plan on every meaningful line, and beat it on **efficiency** while overspending — which is the unusual outcome. Usually overspending dilates efficiency. Here, the catalyst stack + Memorial Day demand spike pulled the inverse.
+**Amazon attribution shifted post-sale.** Per-day Amazon reads during the sale ($114.7K cumulative through Day 7) were ~$39K under TW's settled total ($183.3K). The biggest attribution settlements happened on Days 1-3 (early-sale Amazon was under-reported in daily reads by $10K/day). Day 8's daily read ($29K live) settled DOWN to $18.9K as attribution moved to earlier days.
+
+**The plan vs reality (aggressive scenario):**
+- Aggressive plan: $760K spend / $1.55M Shopify / $180K Amazon / $1.73M total / 2.04x MER / 2.28x +Amazon MER
+- Reality: **$709.9K spend (−7%)** / **$1.695M Shopify (+9%)** / **$183.3K Amazon (+2%)** / **$1.878M total (+9%)** / **2.39x MER (+17%)** / **2.65x +Amazon MER (+16%)**
+
+The team beat plan on every revenue line while spending UNDER the aggressive plan — and beat plan on **efficiency** by 16-17%. That's the cleanest outcome a sale can produce: more revenue at less spend at higher efficiency than the most aggressive forecast.
 
 <!-- Template for next days:
 
